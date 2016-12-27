@@ -1,0 +1,1229 @@
+1,APT,Q,1,MCQ,Evaluate: [(2.39)^2-(1.61)^2]/[2.39-1.61],2,4,6,8,2,NULL,NULL,NULL
+2,APT,Q,2,MCQ,What decimal of an hour is a second ?,0.0025,0.0256,0.00027,0.000126,3,NULL,NULL,NULL
+3,APT,Q,3,MCQ,"If 2994 ö 14.5 = 172, then 29.94 ö 1.45 = ?",0.172,1.72,17.2,172,3,NULL,NULL,NULL
+4,APT,Q,1,MCQ,"When 0.232323..... is converted into a fraction, then the result is:",1ö5,2ö9,23ö99,23ö100,3,NULL,NULL,NULL
+5,APT,Q,2,MCQ,0.009öx=0.01; what is x?,0.0009,0.09,0.9,9,3,NULL,NULL,NULL
+6,APT,Q,3,MCQ,3889 + 12.952 - ? = 3854.002,47.095,47.752,47.932,47.95,4,NULL,NULL,NULL
+7,APT,Q,1,MCQ,0.04 x 0.0162 is equal to:,6.48 x 10-3,6.48 x 10-4,6.48 x 10-5,6.48 x 10-6,2,NULL,NULL,NULL
+8,APT,Q,2,MCQ,"The price of commodity X increases by 40 paise every year, while the price of commodityY increases by 15 paise every year. If in 2001, the price of commodity X was Rs. 4.20 and that of Y was Rs. 6.30, in which year commodity X will cost 40 paise more than the commodity Y ?",2010,2011,2013,2014,2,NULL,NULL,NULL
+9,APT,Q,3,MCQ,617 + 6.017 + 0.617 + 6.0017 = ?,6.2963,62.965,629.6357,None of these,3,NULL,NULL,NULL
+10,APT,Q,1,MCQ,0.002 x 0.5 = ?,0.0001,0.001,0.01,0.1,2,NULL,NULL,NULL
+11,APT,Q,2,MCQ,The rational number for recurring decimal 0.125125.... is:,63/487,119/993,125/999,None of these,3,NULL,NULL,NULL
+12,APT,Q,3,MCQ,34.95 + 240.016 + 23.98 = ?,298.0946,298.111,298.946,299.09,3,NULL,NULL,NULL
+13,APT,Q,1,MCQ,How many digits will be there to the right of the decimal point in the product of 95.75 and .02554 ?,5,6,7,None of these,2,NULL,NULL,NULL
+14,APT,Q,2,MCQ,4.036 divided by 0.04 gives :,1.009,10.09,100.9,None of these,3,NULL,NULL,NULL
+15,APT,Q,3,MCQ,"Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",4,7,9,13,1,NULL,NULL,NULL
+16,APT,Q,1,MCQ,The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:,276,299,322,345,3,NULL,NULL,NULL
+17,APT,Q,2,MCQ,"Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?",4,10,15,16,4,NULL,NULL,NULL
+18,APT,Q,3,MCQ,"The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:",9000,9400,9600,9800,3,NULL,NULL,NULL
+19,APT,Q,1,MCQ,"The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is",101,107,111,185,3,NULL,NULL,NULL
+20,APT,Q,2,MCQ,"Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",4,5,6,8,1,NULL,NULL,NULL
+21,APT,Q,3,MCQ,Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:,40,80,120,200,1,NULL,NULL,NULL
+22,APT,Q,1,MCQ,"The G.C.D. of 1.08, 0.36 and 0.9 is:",0.03,0.9,0.18,1.108,3,NULL,NULL,NULL
+23,APT,Q,2,MCQ,The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:,1,2,3,4,2,NULL,NULL,NULL
+24,APT,Q,3,MCQ,"The least multiple of 7, which leaves a remainder of 4, when divided by 6, 9, 15 and 18 is",74,94,184,364,4,NULL,NULL,NULL
+25,APT,Q,1,MCQ,"Find the lowest common multiple of 24, 36 and 40",120,240,360,480,3,NULL,NULL,NULL
+26,APT,Q,2,MCQ,"The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is:",3,13,23,33,3,NULL,NULL,NULL
+27,APT,Q,3,MCQ,"The least number which when divided by 5, 6 , 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",1677,1683,2523,3363,2,NULL,NULL,NULL
+28,APT,Q,1,MCQ,The ratio of two numbers is 3 : 4 and their H.C.F. is 4. Their L.C.M. is:,12,16,24,48,4,NULL,NULL,NULL
+29,APT,Q,2,MCQ,252 can be expressed as a product of primes as,2 x 2 x 3 x 3 x 7,2 x 2 x 2 x 3 x 7,3 x 3 x 3 x 3 x 7,2 x 3 x 3 x 3 x 7,1,NULL,NULL,NULL
+30,APT,Q,3,MCQ,"A train covers a distance in 50 min ,if it runs at a speed of 48kmph on an average.The speed at which the train must run to reduce the time of journey to 40min will be.",60kmph,59.9kmph,61kmph,62kmph,1,NULL,NULL,NULL
+31,APT,Q,1,MCQ,Vikas can cover a distance in 1hr 24min by covering 2/3 of the distance at 4 kmph and the rest at 5kmph.the total distance is?,5km,6km,7km,8km,2,NULL,NULL,NULL
+32,APT,Q,2,MCQ,"walking at ? of his usual speed ,a man is late by 2 « hr. the usual time is.",7.1,7.3,7.4,7.5,4,NULL,NULL,NULL
+33,APT,Q,3,MCQ,A man covers a distance on scooter .had he moved 3kmph faster he would have taken 40 min less. If he had moved 2kmph slower he would have taken 40min more.the distance is.,40,40.5,41,41.5,1,NULL,NULL,NULL
+34,APT,Q,1,MCQ,"Excluding stoppages,the speed of the bus is 54kmph and including stoppages,it is 45kmph.for how many min does the bus stop per hr.",7,8,9,10,4,NULL,NULL,NULL
+35,APT,Q,2,MCQ,"Two boys starting from the same place walk at a rate of 5kmph and 5.5kmph respectively.wht time will they take to be 8.5km apart, if they walk in the same direction",12hrs,15hrs,17hrs,20hrs,3,NULL,NULL,NULL
+36,APT,Q,3,MCQ,2 trains starting at the same time from 2 stations 200km apart and going in opposite direction cross each other ata distance of 110km from one of the stations.what is the ratio of their speeds.,1320km,1321km,1322km,1323km,1,NULL,NULL,NULL
+37,APT,Q,2,MCQ,A thief steals a ca r at 2.30pm and drives it at 60kmph.the theft is discovered at 3pm and the owner sets off in another car at 75kmph when will he overtake the thief,0.666666667,0.708333333,0.75,0.791666667,2,NULL,NULL,NULL
+38,APT,Q,3,MCQ,"In covering distance,the speed of A & B are in the ratio of 3:4.A takes 30min more than B to reach the destion.The time taken by A to reach the destinstion is.",1hr,2hr,3hr,4hr,2,NULL,NULL,NULL
+39,APT,Q,1,MCQ,The average ages of three persons is 27 years. Their ages are in the proportion of 1:3:5.What is the age in years of the youngest one among them,7,8,9,10,3,NULL,NULL,NULL
+40,APT,Q,2,MCQ,The average of 11 numbers is 50. If the average of first 6 numbers is 49 and that of last 6 is 52.Find the 6th number.,52,53,55,56,4,NULL,NULL,NULL
+41,APT,Q,3,MCQ,Find L.C.M of 852 and 1491.,5964,5694,5496,4695,1,NULL,NULL,NULL
+42,APT,Q,1,MCQ,"The least multiple of 7 which leaves a remainder 4 when divided by 6,9,15 and 18 is",364,365,365,366,1,NULL,NULL,NULL
+43,APT,Q,2,MCQ,"Sum of three even consecutive numbers is 48, and then least number is",16,18,20,14,4,NULL,NULL,NULL
+44,APT,Q,3,MCQ,"It being given that û 15 = 3.88, the best approximation to û5/3 is",0.43,1.89,1.29,1.63,3,NULL,NULL,NULL
+45,APT,Q,1,MCQ,"Of the two-digit numbers (those from 11 to 95, both inclusive) how many have a Second digit greater than the first digit?",37,38,36,35,3,NULL,NULL,NULL
+46,APT,Q,2,MCQ,The Value of û24 + 3û64 + 4û28 is,10,11,12,13,3,NULL,NULL,NULL
+47,APT,Q,3,MCQ,3 ¬ - 4/5 of 5/6 / 4 1/3 / 1/5 ? ( 3/10 + 21 1/5 ) is equal to,15 «,16 «,17 «,18 «,1,NULL,NULL,NULL
+48,APT,Q,1,MCQ,13 sheeps and 9 pigs were bought for Rs. 1291.85.If the average price of a sheep be Rs. 74. What is the average price of a pig.,36.5,36.65,36.7,36.8,2,NULL,NULL,NULL
+49,APT,Q,2,MCQ,A batsman in his 18th innings makes a score of 150 runs and there by increasing his Average by 6. Find his average after 18th innings.,40,41,43,42,4,NULL,NULL,NULL
+50,APT,Q,3,MCQ,. Find the H.C.F of 777 and 1147.,34,33,37,38,3,NULL,NULL,NULL
+51,APT,Q,1,MCQ,The L.C.M of two numbers is 2310 and their H.C.F is 30. If one number is 210 the Other is,330,332,334,336,1,NULL,NULL,NULL
+52,APT,Q,2,MCQ,"The average of 50 numbers is 38. If two numbers namely 45 and 55 are discarded, The average of remaining numbers is?",36.5,37.5,37,38,2,NULL,NULL,NULL
+53,APT,Q,3,MCQ,"Divide 50 in two parts so that the sum of reciprocals is (1/12), the numbers are","20,30","24,36","28,22","36,14",1,NULL,NULL,NULL
+54,APT,Q,1,MCQ,"In a class of 20 students in an examination in Mathematics 2 students scored 100 Marks each, 3 get zero each and the average of the rest was 40. What is the average Of the whole class?",30,50,40,60,3,NULL,NULL,NULL
+55,APT,Q,2,MCQ,"The greatest number, which can divide 432, 534 and 398 leaving the same remainder 7 in each, is",15,16,17,18,3,NULL,NULL,NULL
+56,APT,Q,3,MCQ,The sum of two numbers is 216 and their H.C.F is 27. The numbers are,27 189,23 167,24 178,23 168,1,NULL,NULL,NULL
+57,APT,Q,2,MCQ,"The greatest number of 4 digits which is divisible by each one of the number 12,18,21 and 28 is",9823,9845,9828,9876,3,NULL,NULL,NULL
+58,APT,Q,3,MCQ,Four prime numbers are arranged in ascending order according to their magnitude.Product of first three is 385 and the product of last three is 1001. The greatest number is.,11,13,19,17,2,NULL,NULL,NULL
+59,APT,Q,4,MCQ,".If 13 = 13w/(1-w), then (2w) 2 =",¬,«,1,2,3,NULL,NULL,NULL
+60,APT,Q,1,MCQ,".If a and b are positive integers and (a-b)/3.5 = 4/7, then",b < a,b > a,b = a,b >= a,1,NULL,NULL,NULL
+61,APT,Q,2,MCQ,.M men agree to purchase a gift for Rs. D. If three men drop out how much more Will each have to contribute towards the purchase of the gift,D/(M-3),MD/3,M/(D-3),3D/(M2-3M),4,NULL,NULL,NULL
+62,APT,Q,3,MCQ,Vikas can cover a distance in 1hr 24min by covering 2/3 of the distance at 4 kmph and the rest at 5kmph.the total distance is?,5km,6km,7km,8km,1,NULL,NULL,NULL
+63,APT,Q,1,MCQ,A boy was asked to find the value of 3/8 of a sum of money. Instead of multiplying The sum by 3/8 he divided it by 3/8 and then his answer exceeded by Rs. 55. Find the Correct be x.,7,8,9,10,3,NULL,NULL,NULL
+64,APT,Q,2,MCQ,"What is the greatest possible length that can be used to measure exactly the following Lengths 7m, 3m 85cm, 12m 95cm?",34,35,36,37,2,NULL,NULL,NULL
+65,APT,Q,3,MCQ,The product of two-digit number is 2160 and their H.C.F is 12. The numbers are,32 50,36 60,33 66,40 80,2,NULL,NULL,NULL
+66,APT,Q,1,MCQ,"The least number of 6 digits which it exactly divisible by 12, 15 and 18 is",100082,100078,100080,100090,3,NULL,NULL,NULL
+67,APT,Q,2,MCQ,Two third of three fifth of one fourth of a number is 24. What is 40% of that number?,96,72,120,156,1,NULL,NULL,NULL
+68,APT,Q,3,MCQ,.In a class composed of x girls and y boys what part of the class is composed of girls,y/(x + y),x/xy,x/(x + y),y/xy,3,NULL,NULL,NULL
+69,APT,Q,1,MCQ,".If the operation,^ is defined by the equation x ^ y = 2x + y,what is the value of a in 2 ^ a = a ^ 3",0,1,-1,4,2,NULL,NULL,NULL
+70,APT,Q,2,MCQ,". If a boat is moving in upstream with velocity of 14 km/hr and goes downstream with a velocity of 40 km/hr, then what is the speed of the stream?",13 km/hr,26 km/hr,34 km/hr,none of these,1,NULL,NULL,NULL
+71,APT,Q,3,MCQ,I drove 60 km at 30 kmph and then an additional 60 km at 50 kmph. Compute my average speed over my 120 km.,40,37.5,25.5,50,2,NULL,NULL,NULL
+72,APT,Q,1,MCQ,What is the sum of the first 25 natural odd numbers?,225,125,525,625,4,NULL,NULL,NULL
+73,APT,Q,2,MCQ,"Find the nth number in the series is 1, -3, 5, -7",0,(0)*(n-1),(-1)*(2n-1),infinite,3,NULL,NULL,NULL
+74,APT,Q,3,MCQ,How many rational numbers are there between 0 & 5,2,3,1,infinite,4,NULL,NULL,NULL
+75,APT,Q,1,MCQ,0 < x < 1 which is greater,1/x2,1/x,x,x2,1,NULL,NULL,NULL
+76,APT,Q,2,MCQ,"If the wheel of a bicycle makes 560 revolutions in travelling 1.1 km, what is its radius?",31.25 cm,37.75 cm,35.15 cm,11.25 cm,1,NULL,NULL,NULL
+77,APT,Q,3,MCQ,"walking at ? of his usual speed ,a man is late by 2 « hr. the usual time is.",7.5,8.5,9.5,10.5,1,NULL,NULL,NULL
+78,APT,Q,1,MCQ,The value of ¬ + 1/4.3 + 1/4.32 + 1/4.33 correct to four places of decimals is,0.3706,0.0345,0.3704,0.3456,3,NULL,NULL,NULL
+79,APT,Q,2,MCQ,"If 2/3rd of a number is subtracted from 7/3 of the number, the result is 2 more than the number itself. Find the number.",2,3,4,5,2,NULL,NULL,NULL
+80,APT,Q,3,MCQ,3.7*3.7+2.3*2.3+2*3.7*2.3 / 4.6*4.6-3.4*3.4,3.75,3.5,3,4,1,NULL,NULL,NULL
+81,APT,Q,1,MCQ,Three numbers are in the ratio 3:4:5. The sum of the largest and the smallest equals the Sum of the third and 52. The smallest number is:,36,37,38,39,4,NULL,NULL,NULL
+82,APT,Q,2,MCQ,"Of the three numbers, second is twice the first and also thrice the third. If the average of the three numbers is 44, the largest number is (3)",24,36,72,108,3,NULL,NULL,NULL
+83,APT,Q,3,MCQ,"The least number of five digits which is exactly divisible by 12, 15 and 18 is",10010,10015,10020,10080,4,NULL,NULL,NULL
+84,APT,Q,1,MCQ,Simplify 2/3 / 4/9 of 7 « + 999 494/495 * 99,99999,10000,99000,11111,3,NULL,NULL,NULL
+85,APT,Q,2,MCQ,"If a/2 = b/3 = c/5, the value of a+b+c/c is",2,5,42371,42374,1,NULL,NULL,NULL
+86,APT,Q,3,MCQ,Simplify: 2 « of ? * « /3/2 + « / 3/2 (2/3 ? « of 2/3) to get,1.625,2.625,1.727272727,3.625,1,NULL,NULL,NULL
+87,APT,Q,1,MCQ,If a = 16 and b = then a2+b2+ab/a3-b3 will be,11,42380,121,none,2,NULL,NULL,NULL
+88,APT,Q,2,MCQ,"Find the smallest number which when divided by 6,10 and 15 respectively leaves 5 as Remainder in each case?",30,35,40,45,2,NULL,NULL,NULL
+89,APT,Q,3,MCQ,"If 1/3rdof a number subtracted from « of that number, then the difference is 10more Than 1/7th of the same number. How much is that number?",415,416,418,420,4,NULL,NULL,NULL
+90,APT,Q,1,MCQ,If we multiply a fraction by itself and divide the product by its reciprocal; the fraction Thus obtained is 15 5/8. The original fraction is:,1.5,3.5,2.5,4.5,3,NULL,NULL,NULL
+91,APT,Q,2,MCQ,"Find the H.C.F. of 852, 1065 and 1491.",212,213,214,216,2,NULL,NULL,NULL
+92,APT,Q,3,MCQ,Find the greatest number which divides 3460 and 9380 leaving as remainder 9 and 13 respectively.,493,494,495,496,1,NULL,NULL,NULL
+93,APT,Q,1,MCQ,What is the number of zeros at the end of the product of the numbers from 1 to 100?,120,125,127,128,3,NULL,NULL,NULL
+94,APT,Q,2,MCQ,"A fast typist can type some matter in 2 hours and a slow typist can type the same in 3 hours. If both type combinely, in how much time will they finish?",1 hr 12 min,1 hr 8 min,2 hr 20 min,3 hr 6 min,1,NULL,NULL,NULL
+95,APT,Q,3,MCQ,"Out of 80 coins, one is counterfeit. What is the minimum number of weighings needed to find out the counterfeit coin?",2,45,4,5,3,NULL,NULL,NULL
+96,APT,Q,1,MCQ,"If s(a) denotes square root of a, find the value of s(12+s(12+s(12+ ...... upto infinity.",3,4,5,6,2,NULL,NULL,NULL
+97,APT,Q,2,MCQ,The diameter of the driving wheel of a bus is 140cm. How many revolutions per minute must the wheel make in order to keep a speed of 66 kmph?,300,400,250,350,3,NULL,NULL,NULL
+98,APT,Q,3,MCQ,"Vivek travelled 1200km by air which formed 2/5 of his trip.One third of the whole trip , he travelled by car and the rest of the journey he performed by train. The distance travelled by train was ?",500km,800km,600km,700km,2,NULL,NULL,NULL
+99,APT,Q,1,MCQ,From height of 8 mts a ball fell down and each time it bounces half the distance back. What will be the distance travelled,24,25,26,27,1,NULL,NULL,NULL
+100,APT,Q,2,MCQ,"The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",15,16,18,25,2,NULL,NULL,NULL
+101,APT,Q,3,MCQ,"If selling price is doubled, the profit triples. Find the profit percent.",66.66666667,100,105.3333333,120,2,NULL,NULL,NULL
+102,APT,Q,1,MCQ,"In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",0.3,0.7,1,2.5,2,NULL,NULL,NULL
+103,APT,Q,2,MCQ,A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?,3,4,5,6,3,NULL,NULL,NULL
+104,APT,Q,3,MCQ,The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?,Rs.2000,Rs2200,Rs2400,Data inadequate,1,NULL,NULL,NULL
+105,APT,Q,1,MCQ,"A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",Rs18.20,Rs70,Rs72,Rs88.25,3,NULL,NULL,NULL
+106,APT,Q,2,MCQ,A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?,Rs1090,Rs1160,Rs1190,Rs1202,3,NULL,NULL,NULL
+107,APT,Q,3,MCQ,Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?,3.5,4.5,5.6,6.5,3,NULL,NULL,NULL
+108,APT,Q,1,MCQ,Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:,0.3,0.333333333,0.35,0.44,4,NULL,NULL,NULL
+109,APT,Q,2,MCQ,"On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",Rs45,Rs50,Rs55,Rs60,4,NULL,NULL,NULL
+110,APT,Q,3,MCQ,"When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",Rs21000,Rs22500,Rs25300,Rs25800,3,NULL,NULL,NULL
+111,APT,Q,1,MCQ,100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:,14 2/7% gain,15% gain,14 2/7% loss,15% loss,1,NULL,NULL,NULL
+112,APT,Q,2,MCQ,A shopkeeper sells one transistor for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. His total gain or loss percent is:,5 15/17% loss,5 15/17% gain,6 2/3% gain,None of these,2,NULL,NULL,NULL
+113,APT,Q,3,MCQ,A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:,No profit or loss,0.05,0.08,0.1,2,NULL,NULL,NULL
+114,APT,Q,1,MCQ,"In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",6.25,6.5,6.75,7,1,NULL,NULL,NULL
+115,APT,Q,2,MCQ,"A family consists of two grandparents, two parents and three grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years and that of the grandchildren is 6 years. What is the average age of the family?",28 4/7 yrs,31 5/7 yrs,32 1/7 yrs,None of these,2,NULL,NULL,NULL
+116,APT,Q,3,MCQ,"A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?",Rs4991,Rs5991,Rs6001,Rs6991,1,NULL,NULL,NULL
+117,APT,Q,1,MCQ,"The average of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",0,1,10,19,4,NULL,NULL,NULL
+118,APT,Q,2,MCQ,The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?,76 kg,76.5kg,85kg,data inadequate,3,NULL,NULL,NULL
+119,APT,Q,3,MCQ,"The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",23 yrs,24 yrs,25 yrs,None of these,1,NULL,NULL,NULL
+120,APT,Q,1,MCQ,The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is,3500,4000,4050,5000,2,NULL,NULL,NULL
+121,APT,Q,2,MCQ,"The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:",35 yrs,40 yrs,50 yrs,none of these,2,NULL,NULL,NULL
+122,APT,Q,3,MCQ,"A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends Rs. 4000 each year?",Rs7.98,Rs8,Rs8.50,Rs9,1,NULL,NULL,NULL
+123,APT,Q,1,MCQ,"In Arun's opinion, his weight is greater than 65 kg but less than 72 kg. His brother doest not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",67 kg,68 kg,69 kg,none of these,1,NULL,NULL,NULL
+124,APT,Q,2,MCQ,"The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and that of B and C be 43 kg, then the weight of B is:",17 kg,20kg,26 kg,31 kg,4,NULL,NULL,NULL
+125,APT,Q,3,MCQ,The average weight of 16 boys in a class is 50.25 kg and that of the remaining 8 boys is 45.15 kg. Find the average weights of all the boys in the class.,47.55 kg,48kg,48.55 kg,49.25 kg,3,NULL,NULL,NULL
+126,APT,Q,1,MCQ,A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:,250,276,280,285,4,NULL,NULL,NULL
+127,APT,Q,2,MCQ,"If the average marks of three batches of 55, 60 and 45 students respectively is 50, 55, 60, then the average marks of all the students is:",53.33,54.68,55,none of these,2,NULL,NULL,NULL
+128,APT,Q,3,MCQ,A pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:,10,20,40,73,3,NULL,NULL,NULL
+129,APT,Q,1,MCQ,"From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",564,645,735,756,4,NULL,NULL,NULL
+130,APT,Q,2,MCQ,In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?,360,480,720,5040,3,NULL,NULL,NULL
+131,APT,Q,3,MCQ,In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?,810,1440,2880,50400,4,NULL,NULL,NULL
+132,APT,Q,1,MCQ,"Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",210,1050,25200,21400,3,NULL,NULL,NULL
+133,APT,Q,2,MCQ,In how many ways can the letters of the word 'LEADER' be arranged?,72,144,360,720,3,NULL,NULL,NULL
+134,APT,Q,3,MCQ,"In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",159,194,205,209,4,NULL,NULL,NULL
+135,APT,Q,1,MCQ,"How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",5,10,15,20,4,NULL,NULL,NULL
+136,APT,Q,2,MCQ,"In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",266,5040,11760,86400,3,NULL,NULL,NULL
+137,APT,Q,3,MCQ,"A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",32,48,64,96,3,NULL,NULL,NULL
+138,APT,Q,1,MCQ,In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?,32,48,36,60,3,NULL,NULL,NULL
+139,APT,Q,2,MCQ,In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?,63,90,126,45,1,NULL,NULL,NULL
+140,APT,Q,3,MCQ,"How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",40,400,5040,2520,3,NULL,NULL,NULL
+141,APT,Q,1,MCQ,In how many different ways can the letters of the word 'MATHEMATICS' be arranged so that the vowels always come together?,10080,4989600,120960,none of these,3,NULL,NULL,NULL
+142,APT,Q,2,MCQ,In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?,120,720,4320,2160,2,NULL,NULL,NULL
+143,APT,Q,3,MCQ,Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?,42371,42405,42597,42633,4,NULL,NULL,NULL
+144,APT,Q,1,MCQ,"A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",42664,42695,42407,42497,1,NULL,NULL,NULL
+145,APT,Q,2,MCQ,"In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",42372,42433,42570,42603,1,NULL,NULL,NULL
+146,APT,Q,3,MCQ,What is the probability of getting a sum 9 from two throws of a dice?,42375,42377,42378,42381,3,NULL,NULL,NULL
+147,APT,Q,1,MCQ,Three unbiased coins are tossed. What is the probability of getting at most two heads?,42433,42373,42437,42559,4,NULL,NULL,NULL
+148,APT,Q,2,MCQ,Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?,42371,42433,42437,42506,2,NULL,NULL,NULL
+149,APT,Q,3,MCQ,"In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected, is:",21/46,25/117,18264,42454,1,NULL,NULL,NULL
+150,APT,Q,1,MCQ,"In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?",42379,42405,42407,42497,3,NULL,NULL,NULL
+151,APT,Q,2,MCQ,"From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",42384,25/57,35/256,1/221,4,NULL,NULL,NULL
+152,APT,Q,3,MCQ,Two dice are tossed. The probability that the total score is a prime number is:,42375,42502,42371,42560,2,NULL,NULL,NULL
+153,APT,Q,1,MCQ,A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:,42382,42413,42395,18994,3,NULL,NULL,NULL
+154,APT,Q,2,MCQ,"A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. The probability that all of them are red, is:",42391,42451,33270,28157,3,NULL,NULL,NULL
+155,APT,Q,3,MCQ,"Two cards are drawn together from a pack of 52 cards. The probability that one is a spade and one is a heart, is:",42449,29/34,47/100,13/102,4,NULL,NULL,NULL
+156,APT,Q,1,MCQ,"One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?",42382,42442,42373,19238,2,NULL,NULL,NULL
+157,APT,Q,2,MCQ,A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?,42433,42467,42377,42436,2,NULL,NULL,NULL
+158,APT,Q,3,MCQ,A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:,Rs650,Rs690,Rs698,Rs700,3,NULL,NULL,NULL
+159,APT,Q,1,MCQ,"Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",Rs6400,Rs6500,Rs7200,Rs7500,1,NULL,NULL,NULL
+160,APT,Q,2,MCQ,A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?,Rs4462.50,Rs. 8032.50,Rs. 8900,Rs. 8925,4,NULL,NULL,NULL
+161,APT,Q,3,MCQ,How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?,3.5 years,4 years,4.5 years,5 years,2,NULL,NULL,NULL
+162,APT,Q,1,MCQ,"Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",3.6,6,18,none of these,2,NULL,NULL,NULL
+163,APT,Q,2,MCQ,"A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",0.03,0.04,0.05,0.06,4,NULL,NULL,NULL
+164,APT,Q,3,MCQ,"An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",0.1,0.1025,0.105,none of these,2,NULL,NULL,NULL
+165,APT,Q,1,MCQ,A lent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:,0.05,0.07,0.07125,0.1,4,NULL,NULL,NULL
+166,APT,Q,2,MCQ,"A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",0.036,0.045,0.05,none of these,4,NULL,NULL,NULL
+167,APT,Q,3,MCQ,A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:,Rs. 2000,Rs. 10000,Rs. 15000,Rs. 20000,3,NULL,NULL,NULL
+168,APT,Q,1,MCQ,A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:,0.05,0.08,0.12,0.15,3,NULL,NULL,NULL
+169,APT,Q,2,MCQ,What will be the ratio of simple interest earned by certain amount at the same rate of interest for 6 years and that for 9 years?,0.04375,0.044444444,0.085416667,none of these,3,NULL,NULL,NULL
+170,APT,Q,3,MCQ,"A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how much more interest would it have earned?",Rs. 35,Rs. 245,Rs. 350,None of these,4,NULL,NULL,NULL
+171,APT,Q,1,MCQ,A person borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at 6 p.a for 2 years. Find his gain in the transaction per year.,Rs. 112.50,Rs. 125,Rs. 150,Rs. 167.50,1,NULL,NULL,NULL
+172,APT,LOG ,2,MCQ,"Look at this series: 5.2, 4.8, 4.4, 4, ... What number should come next?",3,3.3,3.5,3.6,3.6,NULL,NULL,NULL
+173,APT,LOG ,3,MCQ,"Look at this series: 8, 6, 9, 23, 87 , ... What number should come next?",128,226,324,429,429,NULL,NULL,NULL
+174,APT,LOG ,3,MCQ,"Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",(1/3),(1/8),(2/8),(1/16),(1/8),NULL,NULL,NULL
+175,APT,LOG ,1,MCQ,"Look at this series: 201, 202, 204, 207, ... What number should come next?",205,208,210,211,211,NULL,NULL,NULL
+176,APT,LOG ,2,MCQ,"Look at this series: 544, 509, 474, 439, ... What number should come next?",404,414,420,445,404,NULL,NULL,NULL
+177,APT,LOG ,3,MCQ,"Look at this series: F2, __, D8, C16, B32, ... What number should fill the blank?",A16,G4,E4,E3,E4,NULL,NULL,NULL
+178,APT,LOG ,1,MCQ,"Look at this series: 664, 332, 340, 170, ____, 89, ... What number should fill the blank?",85,97,109,178,178,NULL,NULL,NULL
+179,APT,LOG ,2,MCQ,"Look at this series: V, VIII, XI, XIV, __, XX, ... What number should fill the blank?",IX,XXIII,XV,XVII,XVII,NULL,NULL,NULL
+180,APT,LOG ,3,MCQ,"Look at this series: VI, 10, V, 11, __, 12, III, ... What number should fill the blank?",II,IV,IX,14,IV,NULL,NULL,NULL
+181,APT,LOG ,1,MCQ,"Look at this series: J14, L16, __, P20, R22, ... What number should fill the blank?",S24,N18,M18,T24,N18,NULL,NULL,NULL
+182,APT,LOG ,2,MCQ,"Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",7,10,12,13,10,NULL,NULL,NULL
+183,APT,LOG ,1,MCQ,"Look at this series: 36, 34, 30, 28, 24, ... What number should come next?",20,22,23,26,22,NULL,NULL,NULL
+184,APT,LOG ,2,MCQ,"Look at this series: 21, 9, 21, 11, 21, 13, 21, ... What number should come next?",14,15,21,23,15,NULL,NULL,NULL
+185,APT,LOG ,3,MCQ,28 25 5 21 18 5 14 ?,11 5,10 7,11 8,5 10,11 5,NULL,NULL,NULL
+186,APT,LOG ,1,MCQ,8 11 21 15 18 21 22 ?,25 18,25 21,25 29,24 21,25 21,NULL,NULL,NULL
+187,APT,LOG ,2,MCQ,9 16 23 30 37 44 51 ?,59 66,56 62,58 66,58 65,58 65,NULL,NULL,NULL
+188,APT,LOG ,3,MCQ,2 8 14 20 26 32 38 ?,2 46,44 50,42 48,40 42,44 50,NULL,NULL,NULL
+189,APT,LOG ,1,MCQ,9 11 33 13 15 33 17?,19 33,33 35,33 19,15 33,19 33,NULL,NULL,NULL
+190,APT,LOG ,2,MCQ,2 3 4 5 6 4 8 ?,9 10,4 8,10 4,9 4,9 4,NULL,NULL,NULL
+191,APT,LOG ,3,MCQ,17 17 34 20 20 31 23 ?,26 23,34 20,23 33,23 28,23 28,NULL,NULL,NULL
+192,APT,LOG ,1,MCQ,"Look at this series: 70, 71, 76, __, 81, 86, 70, 91, ... What number should fill the blank?",70,71,80,96,70,NULL,NULL,NULL
+193,APT,LOG ,2,MCQ,"Look at this series: 8, 43, 11, 41, __, 39, 17, ... What number should fill in the blank?",8,14,44,43,14,NULL,NULL,NULL
+194,APT,LOG ,3,MCQ,"Look at this series: (1/9), (1/3), 1, ____ , 9, ... What number should fill the blank?",(2/3),3,6,27,3,NULL,NULL,NULL
+195,APT,LOG ,1,MCQ,"Look at this series: 83, 73, 93, 63, __, 93, 43, ... What number should fill the blank?",33,53,73,93,53,NULL,NULL,NULL
+196,APT,LOG ,2,MCQ,"Look at this series: 15, __, 27, 27, 39, 39, ... What number should fill the blank?",51,39,23,15,15,NULL,NULL,NULL
+197,APT,LOG ,3,MCQ,"SCD, TEF, UGH, ____, WKL",CMN,UJI,VIJ,IJT,VIJ,NULL,NULL,NULL
+198,APT,LOG ,1,MCQ,"ELFA, GLHA, ILJA, _____, MLNA",OLPA,KLMA,LLMA,KLLA,KLLA,NULL,NULL,NULL
+199,APT,LOG ,2,MCQ,"P5QR, P4QS, P3QT, _____, P1QV",PQW,PQV2,P2QU,PQ3U,P2QU,NULL,NULL,NULL
+200,APT,LOG ,3,MCQ,"QAR, RAS, SAT, TAU, _____",UAV,UAT,TAS,TAT,UAV,NULL,NULL,NULL
+201,APT,LOG ,1,MCQ,"B2CD, _____, BCD4, B5CD, BC6D",B2C2D,BC3D,B2C3D,BCD7,BC3D,NULL,NULL,NULL
+202,APT,LOG ,2,MCQ,"DEF, DEF2, DE2F2, _____, D2E2F3",DEF3,D3EF3,D2E3F,D2E2F2,D2E2F2,NULL,NULL,NULL
+203,APT,LOG ,3,MCQ,"FAG, GAF, HAI, IAH, ____",JAK,HAL,HAK,JAI,JAK,NULL,NULL,NULL
+204,APT,LOG ,1,MCQ,"CMM, EOO, GQQ, _____, KUU",GRR,GSS,ISS,ITT,ISS,NULL,NULL,NULL
+205,APT,LOG ,2,MCQ,"ZA5, Y4B, XC6, W3D, ___",E7V,V2E,VE5,VE7,VE7,NULL,NULL,NULL
+206,APT,LOG ,3,MCQ,"QPO, NML, KJI, _____, EDC",HGF,CAB,JKL,GHI,HGF,NULL,NULL,NULL
+207,APT,LOG ,1,MCQ,"JAK, KBL, LCM, MDN, ___",OEP,NEO,MEN,PFQ,NEO,NULL,NULL,NULL
+208,APT,LOG ,2,MCQ,"BCB, DED, FGF, HIH, ___",JKJ,HJH,IJI,JHJ,JKJ,NULL,NULL,NULL
+209,APT,LOG ,3,MCQ,Odometer is to mileage as compass is to,speed,hiking,needle,direction,direction,NULL,NULL,NULL
+210,APT,LOG ,1,MCQ,Marathon is to race as hibernation is to,winter,bear,dream,sleep,sleep,NULL,NULL,NULL
+211,APT,LOG ,2,MCQ,Yard is to inch as quart is to,gallon,ounce,milk,liquid,ounce,NULL,NULL,NULL
+212,APT,LOG ,3,MCQ,Elated is to despondent as enlightened is to,aware,ignorant,miserable,tolerant,ignorant,NULL,NULL,NULL
+213,APT,LOG ,1,MCQ,Oar is to rowboat as foot is to,running,sneaker,skateboard,jumping,skateboard,NULL,NULL,NULL
+214,APT,LOG ,2,MCQ,BINDING : BOOK,criminal : gang,display : museum,artist : carpenter,frame : picture,frame : picture,NULL,NULL,NULL
+215,APT,LOG ,3,MCQ,EXPLORE : DISCOVER,read : skim,research : learn,write : print,think : relate,research : learn,NULL,NULL,NULL
+216,APT,LOG ,1,MCQ,COTTON : BALE,butter : churn,wine : ferment,grain : shock,curd : cheese,grain : shock,NULL,NULL,NULL
+217,APT,LOG ,2,MCQ,TAILOR : SUIT,scheme : agent,edit : manuscript,revise : writer,mention : opinion,edit : manuscript,NULL,NULL,NULL
+218,APT,LOG ,3,MCQ,BRISTLE : BRUSH,arm : leg,stage : curtain,recline : chair,key : piano,key : piano,NULL,NULL,NULL
+219,APT,LOG ,1,MCQ,WAITRESS : RESTAURANT,doctor : diagnosis,actor : role,driver : truck,teacher : school,teacher : school,NULL,NULL,NULL
+220,APT,LOG ,2,MCQ,MONK : DEVOTION,maniac : pacifism,explorer : contentment,visionary : complacency,rover : wanderlust,rover : wanderlust,NULL,NULL,NULL
+221,APT,LOG ,3,MCQ,SLAPSTICK : LAUGHTER,fallacy : dismay,genre : mystery,satire : anger,horror : fear,horror : fear,NULL,NULL,NULL
+222,APT,LOG ,1,MCQ,COBBLER : SHOE,jockey : horse,contractor : building,mason : stone,cowboy : boot,contractor : building,NULL,NULL,NULL
+223,APT,LOG ,2,MCQ,CONDUCTOR : ORCHESTRA,jockey : mount,thrasher : hay,driver : tractor,skipper : crew,skipper : crew,NULL,NULL,NULL
+224,APT,LOG ,3,MCQ,DELTOID : MUSCLE,radius : bone,brain : nerve,tissue : organ,blood : vein,radius : bone,NULL,NULL,NULL
+225,APT,LOG ,1,MCQ,CONVICTION : INCARCERATION,reduction : diminution,induction : amelioration,radicalization : estimation,proliferation : alliteration,reduction : diminution,NULL,NULL,NULL
+226,APT,LOG ,2,MCQ,DEPENDABLE : CAPRICIOUS,fallible : cantankerous,erasable : obtuse,malleable : limpid,capable : inept,capable : inept,NULL,NULL,NULL
+227,APT,LOG ,3,MCQ,AERIE : EAGLE,capital : government,bridge : architect,unit : apartment,house : person,house : person,NULL,NULL,NULL
+228,APT,LOG ,1,MCQ,PROFESSOR : ERUDITE,aviator : licensed,inventor : imaginative,procrastinator : conscientious,overseer : wealthy,inventor : imaginative,NULL,NULL,NULL
+229,APT,LOG ,2,MCQ,Window is to pane as book is to,novel,glass,page,cover,page,NULL,NULL,NULL
+230,APT,LOG ,3,MCQ,Cup is to coffee as bowl is to,dish,soup,spoon,food,soup,NULL,NULL,NULL
+231,APT,LOG ,1,MCQ,Guide is to direct as reduce is to,decrease,maintain,increase,preserve,decrease,NULL,NULL,NULL
+232,APT,LOG ,2,MCQ,Candid is to indirect as honest is to,frank,wicked,truthful,untruthful,untruthful,NULL,NULL,NULL
+233,APT,LOG ,3,MCQ,VERVE : ENTHUSIASM,loyalty : duplicity,devotion : reverence,intensity : color,eminence : anonymity,devotion : reverence,NULL,NULL,NULL
+234,APT,LOG ,1,MCQ,SPY : CLANDESTINE,accountant : meticulous,furrier : rambunctious,lawyer : ironic,shepherd : garrulous,accountant : meticulous,NULL,NULL,NULL
+235,APT,LOG ,2,MCQ,UMBRAGE : OFFENSE,confusion : penance,infinity : meaning,decorum : decoration,elation : jubilance,elation : jubilance,NULL,NULL,NULL
+236,APT,LOG ,3,MCQ,Optimist is to cheerful as pessimist is to,gloomy,mean,petty,helpful,gloomy,NULL,NULL,NULL
+237,APT,LOG ,1,MCQ,Reptile is to lizard as flower is to,petal,stem,daisy,alligator,daisy,NULL,NULL,NULL
+238,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,parsley,basil,dill,mayonnaise,mayonnaise,NULL,NULL,NULL
+239,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,inch,ounce,centimeter,yard,ounce,NULL,NULL,NULL
+240,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,rye,sourdough,pumpernickel,loaf,rye,NULL,NULL,NULL
+241,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,heading,body,letter,closing,letter,NULL,NULL,NULL
+242,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,tape,twine,cord,yarn,tape,NULL,NULL,NULL
+243,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,leopard,cougar,elephant,lion,elephant,NULL,NULL,NULL
+244,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,cornea,retina,pupil,vision,vision,NULL,NULL,NULL
+245,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,noun,preposition,punctuation,adverb,punctuation,NULL,NULL,NULL
+246,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,book,index,glossary,chapter,book,NULL,NULL,NULL
+247,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,unimportant,trivial,insignificant,familiar,familiar,NULL,NULL,NULL
+248,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,wing,fin,beak,rudder,beak,NULL,NULL,NULL
+249,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,core,seeds,pulp,slice,slice,NULL,NULL,NULL
+250,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,peninsula,island,bay,cape,bay,NULL,NULL,NULL
+251,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,acute,right,obtuse,parallel,parallel,NULL,NULL,NULL
+252,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,scythe,knife,pliers,saw,pliers,NULL,NULL,NULL
+253,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,evaluate,assess,appraise,instruct,instruct,NULL,NULL,NULL
+254,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,defendant,prosecutor,trial,judge,trial,NULL,NULL,NULL
+255,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,eel,lobster,crab,shrimp,eel,NULL,NULL,NULL
+256,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,mayor,lawyer,governor,senator,lawyer,NULL,NULL,NULL
+257,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,excite,flourish,prosper,thrive,excite,NULL,NULL,NULL
+258,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,biology,chemistry,theology,zoology,theology,NULL,NULL,NULL
+259,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,tyre,steering wheel,engine,car,car,NULL,NULL,NULL
+260,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,tulip,rose,bud,daisy,bud,NULL,NULL,NULL
+261,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,guitar,flute,violin,cello,flute,NULL,NULL,NULL
+262,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,dodge,flee,duck,avoid,flee,NULL,NULL,NULL
+263,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,branch,dirt,leaf,root,dirt,NULL,NULL,NULL
+264,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,street,freeway,interstate,expressway,street,NULL,NULL,NULL
+265,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,fair,just,equitable,favorable,favorable,NULL,NULL,NULL
+266,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,unique,beautiful,rare,exceptional,beautiful,NULL,NULL,NULL
+267,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,triangle,circle,oval,sphere,triangle,NULL,NULL,NULL
+268,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,seat,rung,cushion,leg,cushion,NULL,NULL,NULL
+269,APT,LOG ,3,MCQ,Which word does NOT belong with the others?,area,variable,circumference,quadrilateral,variable,NULL,NULL,NULL
+270,APT,LOG ,1,MCQ,Which word does NOT belong with the others?,two,three,six,eight,three,NULL,NULL,NULL
+271,APT,LOG ,2,MCQ,Which word does NOT belong with the others?,couch,rug,table,chair,rug,NULL,NULL,NULL
+272,APT,VER,1,MCQ,Arrange the words given below in a meaningful sequence.1. Key 2. Door 3. Lock 4. Room 5. Switch on,"5, 1, 2, 4, 3","4, 2, 1, 5, 3","1, 3, 2, 4, 5","1, 2, 3, 5, 4",3,NULL,NULL,NULL
+273,APT,VER,2,MCQ," 
+Arrange the words given below in a meaningful sequence.
+
+1. Word 2. Paragraph 3. Sentence
+4. Letters 5. Phrase","4, 1, 5, 2, 3","4, 1, 3, 5, 2","4, 2, 5, 1, 3","4, 1, 5, 3, 2",4,NULL,NULL,NULL
+274,APT,VER,3,MCQ,"Arrange the words given below in a meaningful sequence.
+
+1. Police 2. Punishment 3. Crime
+4. Judge 5. Judgement","3, 1, 2, 4, 5","1, 2, 4, 3, 5","5, 4, 3, 2, 1","3, 1, 4, 5, 2",4,NULL,NULL,NULL
+275,APT,VER,1,MCQ," 
+Arrange the words given below in a meaningful sequence.
+
+1. Poverty 2. Population 3. Death
+4. Unemployment 5. Disease","2, 3, 4, 5, 1","3, 4, 2, 5, 1","2, 4, 1, 5, 3","1, 2, 3, 4, 5",3,NULL,NULL,NULL
+276,APT,VER,2,MCQ,"Arrange the words given below in a meaningful sequence.
+
+1. Caste 2. Family 3. Newly married Couple
+4. Clan 5. Species","2, 3, 1, 4, 5","3, 4, 5, 1, 2","3, 2, 1, 4, 5","4, 5, 3, 2, 1",3,NULL,NULL,NULL
+277,APT,VER,3,MCQ," 
+Arrange the words given below in a meaningful sequence.
+
+1. Probation 2. Interview 3. Selection
+4. Appointment 5. Advertisement 6. Application","5, 6, 3, 2, 4, 1","5, 6, 4, 2, 3, 1","5, 6, 2, 3, 4, 1","6, 5, 4, 2, 3, 1",3,NULL,NULL,NULL
+278,APT,VER,1,MCQ,"Arrange the words given below in a meaningful sequence.
+
+1. Presentation 2. Recommendation 3. Arrival
+4. Discussion 5. Introduction","5, 3, 4, 1, 2","3, 5, 4, 2, 1","3, 5, 1, 4, 2 ","5, 3, 1, 2, 4",3,NULL,NULL,NULL
+279,APT,VER,2,MCQ,"Arrange the words given below in a meaningful sequence.
+
+1. Income 2. Status 3. Education
+4. Well-being 5. Job","3, 1, 5, 2, 4","1, 3, 2, 5, 4","1, 2, 5, 3, 4","3, 5, 1, 2, 4",4,NULL,NULL,NULL
+280,APT,VER,3,MCQ,"  
+120, 99, 80, 63, 48, ?",35,38,39,40,1,NULL,NULL,NULL
+281,APT,VER,1,MCQ,"589654237, 89654237, 8965423, 965423, ?",58965,65423,89654,96542,4,NULL,NULL,NULL
+282,APT,VER,2,MCQ,"In the series 2, 6, 18, 54, ...... what will be the 8th term ?
+
+",4370,4374,7443,7434,2,NULL,NULL,NULL
+283,APT,VER,3,MCQ,"1, 1, 4, 8, 9, 27, 16, ?
+
+",32,64,81,256,2,NULL,NULL,NULL
+284,APT,VER,1,MCQ,"3, 4, 7, 7, 13, 13, 21, 22, 31, 34, ?
+
+",42,43,51,52,2,NULL,NULL,NULL
+285,APT,VER,2,MCQ,"198, 194, 185, 169, ?
+
+",92,112,136,144,4,NULL,NULL,NULL
+286,APT,VER,3,MCQ,"Which term of the series 5, 10, 20, 40, ..... is 1280?
+
+",10th,9th,8th,"None of these
+",2,NULL,NULL,NULL
+287,APT,VER,1,MCQ,"Which of the following will not be a number of the series 1, 8, 27, 64, 125,.....?
+
+",256,512,729,1000,1,NULL,NULL,NULL
+288,APT,VER,2,MCQ,"20, 20, 19, 16, 17, 13, 14, 11, ?, ?
+
+","10, 10","10, 11","13, 14","13, 16",1,NULL,NULL,NULL
+289,APT,VER,3,MCQ,"2,2,5, 13,28,?
+
+",49,50,51,52,4,NULL,NULL,NULL
+290,APT,VER,1,MCQ,"A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?
+
+",A,x,s,z,2,NULL,NULL,NULL
+291,APT,VER,2,MCQ,"Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary.
+
+
+Who is sitting immediate right to Reeta ?",Bindu,Rani,Mary,Seema,3,NULL,NULL,NULL
+292,APT,VER,3,MCQ,Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other.Who are the neighbours of Mukesh ?,Prakash and Deepa,Deepa and Priti,Priti and Pankaj,Lalit and Priti,3,NULL,NULL,NULL
+293,APT,VER,1,MCQ,"Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal. P is second to the left of U. Q is neighbour of R and S. T is second to the left of S.Which one is sitting opposite to T ?
+
+
+
+",R,Q,Cannot be determined,S,2,NULL,NULL,NULL
+294,APT,VER,2,MCQ,"In a class there are seven students (including boys and girls) A, B, C, D, E, F and G. They sit on three benches I, II and III. Such that at least two students on each bench and at least one girl on each bench. C who is a girl student, does not sit with A, E and D. F the boy student sits with only B. A sits on the bench I with his best friends. G sits on the bench III. E is the brother of C.
+On which bench there are three students ?
+
+
+",Bench I,Bench II,Bench III,Bench I or II,1,NULL,NULL,NULL
+295,APT,VER,1,MCQ,"Choose the word which is different from the rest.
+
+",Iron,Potassium,Sodium,Chlorine,1,NULL,NULL,NULL
+296,APT,VER,2,MCQ,"Choose the word which is different from the rest.
+
+",Cancel,Change,Repeal,Revoke,2,NULL,NULL,NULL
+297,APT,VER,3,MCQ,"Choose the word which is different from the rest.
+
+",Autocracy,Bureaucracy,Democracy,Diplomacy,4,NULL,NULL,NULL
+298,APT,VER,1,MCQ,"Choose the word which is different from the rest.
+
+",Raft,Chariot,Sledge,Cart,1,NULL,NULL,NULL
+299,APT,VER,2,MCQ,"Choose the word which is different from the rest.
+
+",Equity,Fairness,Partiality,Justice,3,NULL,NULL,NULL
+300,APT,VER,3,MCQ,"Choose the word which is different from the rest.
+
+",Resume,Admit,Confess,Depend,4,NULL,NULL,NULL
+301,APT,VER,1,MCQ,"Choose the odd one out.
+
+",FAA,ATT,EPP,IFF,1,NULL,NULL,NULL
+302,APT,VER,2,MCQ,"Choose the odd one out.
+
+",AOT,CPA,REB,QUD,2,NULL,NULL,NULL
+303,APT,VER,3,MCQ,"Choose the odd one out.
+
+",ABD,FGI,LMO,STU,4,NULL,NULL,NULL
+304,APT,VER,1,MCQ,"Choose the odd one out.
+
+",XUW,DAC,PMN,HEG,3,NULL,NULL,NULL
+305,APT,VER,2,MCQ,"Choose the odd one out.
+
+",HSRI,MVUN,OLKP,PJQX,4,NULL,NULL,NULL
+306,APT,VER,3,MCQ,"Choose the odd one out.
+
+",JKST,GHQR,ABKL,DENO,1,NULL,NULL,NULL
+307,APT,VER,1,MCQ,"Choose the odd one out.
+
+",ABBC,PQQR,HIIJ,WYYZ,4,NULL,NULL,NULL
+308,APT,VER,2,MCQ,"Choose the word which is different from the rest.
+
+",Cancel,Change,Repeal,Rescind,2,NULL,NULL,NULL
+309,APT,VER,3,MCQ,"Choose the word which is different from the rest.
+
+",Teach,Instruct,Educate,Explain,2,NULL,NULL,NULL
+310,APT,VER,1,MCQ,"Pointing to a photograph of a boy Suresh said, ""He is the son of the only son of my mother."" How is Suresh related to that boy?
+
+",Brother,Uncle,Cousin,Father,4,NULL,NULL,NULL
+311,APT,VER,2,MCQ,"If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?
+
+",Q - N + M x P,P + S x N - Q,P - M + N x Q,Q - S % P,3,NULL,NULL,NULL
+312,APT,VER,3,MCQ,"Deepak said to Nitin, ""That boy playing with the football is the younger of the two brothers of the daughter of my father's wife."" How is the boy playing football related to Deepak?
+
+",Son,Brother,Cousin,Brother-in-law,2,NULL,NULL,NULL
+313,APT,VER,1,MCQ,"Pointing a photograph X said to his friend Y, ""She is the only daughter of the father of my mother."" How X is related to the person of photograph?
+
+",Daughter,Son,Nephew,Cannot be decided,2,NULL,NULL,NULL
+314,APT,VER,2,MCQ,"If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?
+
+",P x Q % R + S - T,P x Q % R - T + S,P x Q % R + T - S,P x Q % R + S + T,2,NULL,NULL,NULL
+315,APT,VER,3,MCQ,"Pointing to a lady a person said, ""The son of her only brother is the brother of my wife."" How is the lady related to the person?
+
+",Maternal aunt,Grandmother,Sister of father-in-law,None of these,3,NULL,NULL,NULL
+316,APT,VER,1,MCQ,"B5D means B is the father of D.
+B9D means B is the sister of D.
+B4D means B is the brother of D.
+B3D means B is the wife of D.
+Which of the following means F is the mother of K?
+",F3M5K,F5M3K,F9M4N3K,F3M5N3K,1,NULL,NULL,NULL
+317,APT,VER,2,MCQ,"If A $ B means B is the father of A; A # B means B is the mother of A; A * B means B is the sister of A and A @ B means B is the husband of A, which of the following indicates that N is the grandmother of P?
+
+",P * Q # M $ N,P @ Q $ M # N,P # Q $ N * M,None of these,4,NULL,NULL,NULL
+318,APT,VER,1,MCQ,"A + B means A is the mother of B.
+A - B means A is the sister of B.
+A * B means A is the father of B.
+A ? B means A is the brother of B.Which of the following means that N is the maternal uncle of M?
+
+",N ? P - L + E - M,N - Y + A ? M,M - Y * P - N,N ? C + F * M,1,NULL,NULL,NULL
+319,APT,VER,2,MCQ,"M % N means M is the son of N.
+M @ N means M is the sister of N.
+M $ N means M is the father of N.Which of the following shows the relation that C is the granddaughter of E?
+
+",C % B $ F $ E,B $ F $ E % C,C @ B % F % E,E % B $ F $ C,3,NULL,NULL,NULL
+320,APT,VER,3,MCQ,"CUP : LIP :: BIRD : ?
+
+",BUSH,GRASS,FOREST,BEAK,4,NULL,NULL,NULL
+321,APT,VER,1,MCQ,"Ornithologist : Bird :: Archealogist : ?
+
+",Islands,Mediators,Archealogy,Aquatic,3,NULL,NULL,NULL
+322,APT,VER,2,MCQ,"BEGK : ADFJ :: PSVY : ?
+
+",ROUX,ORUX,LQUT,LOQT,2,NULL,NULL,NULL
+323,APT,VER,3,MCQ,"ZRYQ : KCJB :: PWOV : ?
+
+",GBHA,ISJT,ELDK,EOFP,3,NULL,NULL,NULL
+324,APT,VER,1,MCQ,"MO : 13 11 :: HJ : ?
+
+",19 17,18 16,8 10,16 18,2,NULL,NULL,NULL
+325,APT,VER,2,MCQ,"MXN : 13 x 14 :: FXR : ?
+
+",14 x 15,5 x 17,6 x 18,7 x 19,3,NULL,NULL,NULL
+326,APT,VER,3,MCQ,"Numismatist : Coins
+
+",Jeweller : Jewels,Cartographer : Maps,Philatelist : Stamps,Geneticist : Chromosomes,3,NULL,NULL,NULL
+327,APT,VER,1,MCQ,"Rectangle : Pentagon
+
+",Side : Angle,Diagonal : Perimeter,Triangle : Rectangle,Circle : Square,3,NULL,NULL,NULL
+328,APT,VER,2,MCQ,"25 : 37 :: 49 : ?
+
+",41,65,56,60,2,NULL,NULL,NULL
+329,APT,VER,3,MCQ,"Sound : Muffled
+
+",Moisture : Humid,Colour : Faded,Despair : Anger,Odour : Pungent,2,NULL,NULL,NULL
+330,APT,VER,1,MCQ,"One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?
+
+",East,West,North,South,3,NULL,NULL,NULL
+331,APT,VER,2,MCQ,"If South-East becomes North, North-East becomes West and so on. What will West become?
+
+",North-East,North-West,South-East,South-West,3,NULL,NULL,NULL
+332,APT,VER,3,MCQ,"Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?
+
+",South-East,South,North,West,4,NULL,NULL,NULL
+333,APT,VER,1,MCQ,"K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?
+
+",East,West,North-East,South,1,NULL,NULL,NULL
+334,APT,VER,2,MCQ,"Some boys are sitting in three rows all facing North such that A is in the middle row. P is just to the right of A but in the same row. Q is just behind of P while R is in the North of A. In which direction of R is Q?
+
+",South,South-West,North-East,South-East,4,NULL,NULL,NULL
+335,APT,VER,3,MCQ,"Dev, Kumar, Nilesh, Ankur and Pintu are standing facing to the North in a playground such as given below:
+
+Kumar is at 40 m to the right of Ankur.
+Dev is are 60 m in the south of Kumar.
+Nilesh is at a distance of 25 m in the west of Ankur.
+Pintu is at a distance of 90 m in the North of Dev.If a boy starting from Nilesh, met to Ankur and then to Kumar and after this he to Dev and then to Pintu and whole the time he walked in a straight line, then how much total distance did he cover?
+
+",215 m,155 m,245 m,185 m,1,NULL,NULL,NULL
+336,APT,VER,1,MCQ,"Six flats on a floor in two rows facing North and South are allotted to P, Q, R, S, T and U.
+Q gets a North facing flat and is not next to S.
+S and U get diagonally opposite flats.
+R next to U, gets a south facing flat and T gets North facing flat.If the flats of P and T are interchanged then whose flat will be next to that of U?
+
+",P,Q,R,T,3,NULL,NULL,NULL
+337,APT,VER,2,MCQ,"Rohit walked 25 m towards south. Then he turned to his left and walked 20 m. He then turned to his left and walked 25 m. He again turned to his right and walked 15 m. At what distance is he from the starting point and in which direction?
+
+",35 m East,35 m North,30 m West,45 m East,1,NULL,NULL,NULL
+338,APT,VER,3,MCQ,"Umesh directly went from P, to Q which is 9 feet distant. Then he turns to the right and walked 4 feet. After this he turned to the right and walked a distance which is equal from P to Q. Finally he turned to the right and walked 3 feet. How far is he now from P?
+
+",6 feet,5 feet,1 feet,0 feet,3,NULL,NULL,NULL
+339,APT,VER,1,MCQ,"Sachin walks 20 km towards North. He turns left and walks 40 km. He again turns left and walks 20 km. Finally he moves 20 km after turning to the left. How far is he from his starting position?
+
+",20 km.,30 km.,50 km.,60 km.,1,NULL,NULL,NULL
+340,APT,VER,2,MCQ,"Two bus tickets from city A to B and three tickets from city A to C cost Rs. 77 but three tickets from city A to B and two tickets from city A to C cost Rs. 73. What are the fares for cities B and C from A ?
+
+","Rs. 4, Rs. 23","Rs. 13, Rs. 17","Rs. 15, Rs. 14","Rs. 17, Rs. 13",2,NULL,NULL,NULL
+341,APT,VER,1,MCQ,"A, B, C, D and E play a game of cards. A says to B, ""If you give me three cards, you will have as many as E has and if I give you three cards, you will have as many as D has."" A and B together have 10 cards more than what D and E together have. If B has two cards more than what C has and the total number of cards be 133, how many cards does B have ?
+
+",22,23,25,35,3,NULL,NULL,NULL
+342,APT,VER,2,MCQ,"In a garden, there are 10 rows and 12 columns of mango trees. The distance between the two trees is 2 metres and a distance of one metre is left from all sides of the boundary of the garden. The length of the garden is
+
+",20 m,22 m,24 m,26 m,3,NULL,NULL,NULL
+343,APT,VER,3,MCQ,"A tailor had a number of shirt pieces to cut from a roll of fabric. He cut each roll of equal length into 10 pieces. He cut at the rate of 45 cuts a minute. How many rolls would be cut in 24 minutes ?
+
+",32 rolls,54 rolls,108 rolls,120 rolls,4,NULL,NULL,NULL
+344,APT,VER,1,MCQ,"David gets on the elevator at the 11th floor of a building and rides up at the rate of 57 floors per minute. At the same time, Albert gets on an elevator at the 51st floor of the same building and rides down at the rate of 63 floors per minute. If they continue travelling at these rates, then at which floor will their paths cross ?
+
+",19,28,30,37,3,NULL,NULL,NULL
+345,APT,VER,2,MCQ,"A bird shooter was askgd how many birds he had in the bag. He replied that there were all sparrows but six, all pigeons but six, and all ducks but six. How many birds he had in the bag in all?
+
+",9,18,27,36,1,NULL,NULL,NULL
+346,APT,VER,3,MCQ,"In three coloured boxes - Red, Green and Blue, 108 balls are placed. There are twice as many balls in the green and red boxes combined as there are in the blue box and twice as many in the blue box as there are in the red box. How many balls are there in the green box ?
+
+",18,36,45,None of these,4,NULL,NULL,NULL
+347,APT,VER,1,MCQ,"At a dinner party every two guests used a bowl of rice between them, every three guests used a bowl of dal between them and every four used a bowl of meat between them. There were altogether 65 dishes. How many guests were present at the party ?
+
+",60,65,90,None of these,1,NULL,NULL,NULL
+348,APT,VER,2,MCQ,"In a cricket match, five batsmen A, B, C, D and E scored an average of 36 runs. D Scored 5 more than E; E scored 8 fewer than A; B scored as many as D and E combined; and B and C scored 107 between them. How many runs did E score ?
+
+",62,45,28,20,4,NULL,NULL,NULL
+349,APT,VER,3,MCQ,"The total number of digits used in numbering the pages of a book having 366 pages is
+
+",732,990,1098,1305,2,NULL,NULL,NULL
+350,APT,VER,1,MCQ,"A bulb always has
+
+",Glass,Current,Filament,Light,3,NULL,NULL,NULL
+351,APT,VER,2,MCQ,"What is always in worry?
+
+",Difficulty,Unrest,Non-Cooperation,Poignancy,2,NULL,NULL,NULL
+352,APT,VER,1,MCQ,"Controversy always involves
+
+",Dislike,Injustice,Disagreement,Passion,3,NULL,NULL,NULL
+353,APT,VER,2,MCQ,"CORPULENT
+
+",Lean,Gaunt,Emaciated,"Obese
+",4,NULL,NULL,NULL
+354,APT,VER,3,MCQ,EMBEZZLE,Misappropriate,Balance,Remunerate,Clear,1,NULL,NULL,NULL
+355,APT,VER,1,MCQ,"VENT
+
+",Opening,Stodge,End,Past tense of go,1,NULL,NULL,NULL
+356,APT,VER,2,MCQ,"AUGUST
+
+",Common,Ridiculous,Dignified,"Petty
+",3,NULL,NULL,NULL
+357,APT,VER,3,MCQ,"INEXPLICABLE
+
+",Confusing,Unaccountable,Chaotic,Unconnected,2,NULL,NULL,NULL
+358,APT,VER,1,MCQ,DEIFY,Flatter,Challenge,Worship,Face,3,NULL,NULL,NULL
+359,APT,VER,2,MCQ,"HARBINGER
+",Messenger,Steward,Forerunner,Pilot,3,NULL,NULL,NULL
+360,APT,VER,3,MCQ,"ZANY
+
+",Clown,"Pet
+",Thief,Magician,1,NULL,NULL,NULL
+361,APT,VER,1,MCQ,"TACITURNITY
+
+",Dumbness,Changeablemess,Hesitation,Reserve,4,NULL,NULL,NULL
+362,APT,VER,2,MCQ,GARRULITY,Credulity,Senility,Loquaciousness,"Speciousness
+",3,NULL,NULL,NULL
+363,APT,VER,3,MCQ,"MOROSE
+
+",Annoyed,Gloomy,Moody,Displeased,2,NULL,NULL,NULL
+364,APT,VER,1,MCQ,DEBACLE,Collapse,Decline,Defeat,Disgrace,1,NULL,NULL,NULL
+365,APT,VER,2,MCQ,"GERMANE
+
+",Responsible,Logical,Possible,Relevant,4,NULL,NULL,NULL
+366,APT,VER,3,MCQ,EXODUS,Influx,Home-coming,Return,Restoration,1,NULL,NULL,NULL
+367,APT,VER,1,MCQ,"QUIESCENT
+
+",ACTIVE,"Dormant
+",Weak,Unconcerned,1,NULL,NULL,NULL
+368,APT,VER,2,MCQ,"GREGARIOUS
+
+",Antisocial,Glorious,Horrendous,Similar,1,NULL,NULL,NULL
+369,APT,VER,3,MCQ,"EVASIVE
+
+",Free,Honest,Liberal,Frank,2,NULL,NULL,NULL
+370,APT,VER,1,MCQ,"CAPACIOUS
+
+",Limited,Caring,Foolish,Changeable,1,NULL,NULL,NULL
+371,APT,VER,2,MCQ,"SACROSANCT
+
+",Irreligious,Unethical,Irreverent,Unholy,4,NULL,NULL,NULL
+372,APT,VER,3,MCQ,"HAPLESS
+
+",Cheerful,Consistent,Fortunate,Shapely,3,NULL,NULL,NULL
+373,APT,VER,1,MCQ,"EQUANIMITY
+
+",Resentment,Dubiousness,Duplicity,Excitement,4,NULL,NULL,NULL
+374,APT,VER,2,MCQ,"SUBSERVIENT
+
+",Aggressive,Straightforward,Dignified,Supercilious,3,NULL,NULL,NULL
+375,APT,VER,1,MCQ,"GULLIBLE
+
+",Incredulous,Fickle,Easy,Stylish,1,NULL,NULL,NULL
+376,APT,VER,2,MCQ,"CONCEDE
+
+",Object,Refuse,Grant,Accede,2,NULL,NULL,NULL
+377,APT,VER,3,MCQ,"FICKLE
+
+",Courageous,Sincere,Steadfast,Humble,3,NULL,NULL,NULL
+378,APT,VER,1,MCQ,"Extreme old age when a man behaves like a fool
+
+",Imbecility,Senility,Dotage,Superannuation,3,NULL,NULL,NULL
+379,APT,VER,2,MCQ,"A person who insists on something
+
+",Disciplinarian,Stickler,Instantaneous,Boaster,2,NULL,NULL,NULL
+380,APT,VER,3,MCQ,"Words inscribed on tomb
+
+",Epitome,Epistle,Epilogue,Epitaph,4,NULL,NULL,NULL
+381,APT,VER,1,MCQ,"Teetotaller means
+
+",One who abstains from theft,One who abstains from meat,One who abstains from taking wine,One who abstains from malice,3,NULL,NULL,NULL
+382,APT,VER,2,MCQ,"Habitually silent or talking little
+
+",Servile,Unequivocal,Taciturn,Synoptic,3,NULL,NULL,NULL
+383,APT,VER,3,MCQ,"Parts of a country behind the coast or a river's banks
+
+",Isthmus,Archipelago,Hinterland,Swamps,3,NULL,NULL,NULL
+384,APT,VER,1,MCQ,"Giving undue favours to one's own kith and kin
+
+",Nepotism,Favouritism,Wordliness,Corruption,1,NULL,NULL,NULL
+385,APT,VER,2,MCQ,"Hater of learning and knowledge
+
+",Misologist,Bibliophile,Misogynist,Misanthropist,1,NULL,NULL,NULL
+386,APT,VER,1,MCQ,"One who dabbles in fine arts for the love of it and not for monetary gains
+
+",Connoisseur,Amateur,Professional,Dilettante,2,NULL,NULL,NULL
+387,APT,VER,2,MCQ,"A school boy who cuts classes frequently is a
+
+",Defeatist,Sycophant,Truant,Martinet,3,NULL,NULL,NULL
+388,APT,VER,3,MCQ,"To cause troops, etc. to spread out in readiness for battle
+
+",Disperse,Deploy,Collocate,Align,2,NULL,NULL,NULL
+389,APT,VER,1,MCQ,"To issue a thunderous verbal attack
+
+",Languish,Animate,Fulminate,Invigorate,3,NULL,NULL,NULL
+390,APT,VER,2,MCQ,"When he
+P : did not know
+Q : he was nervous and
+R : heard the hue and cry at midnight
+S : what to do
+The Proper sequence should be:",RQPS,QSPR,SQPR,PQRS,1,NULL,NULL,NULL
+391,APT,VER,3,MCQ,"The national unity of a free people
+P : to make it impracticable
+Q : for there to be an arbitrary administration
+R : depends upon a sufficiently even balance of political power
+S : against a revolutionary opposition that is irreconcilably opposed to it
+The Proper sequence should be:",QRPS,QRSP,RPQS,RSPQ,4,NULL,NULL,NULL
+392,APT,VER,1,MCQ,"This time
+P : exactly what he had been told
+Q : the young man did
+R : beyond his dreams
+S : and the plan succeeded
+The Proper sequence should be:",QPRS,QPSR,PQSR,QSRP,2,NULL,NULL,NULL
+393,APT,VER,2,MCQ,"
+It is not, therefore
+P : that I pay a tribute
+Q : to conductors as a class
+R : with any feeling of unfriendliness
+S : to a particular member of that class
+The Proper sequence should be:
+
+",PQRS,RQPS,RSPQ,PSRQ,3,NULL,NULL,NULL
+394,APT,VER,3,MCQ,"The majestic mahogany table
+P : belongs to an old prince
+Q : which has one leg missing
+R : who is no impoverished
+S : but not without some pride
+The Proper sequence should be:",PQSR ,QRSP,PRSQ,QPRS,4,NULL,NULL,NULL
+395,APT,VER,1,MCQ,"Little
+P : that he had been let down
+Q : stood by all these years
+R : did he realise
+S : by a colleague whom he had
+The Proper sequence should be:",RPSQ,RSQP,QSRP,QSPR,1,NULL,NULL,NULL
+396,APT,VER,2,MCQ," 
+I saw that
+P : but seeing my host in this mood
+Q : I deemed it proper to take leave
+R : as I had frequently done before
+S : it had been my intention to pass the night there
+The Proper sequence should be:",QPSR,QRPS,SPQR,SRPQ,4,NULL,NULL,NULL
+397,APT,VER,3,MCQ,"Though he dialled frequently
+P : on telephone
+Q : my brother could not contact me
+R : and had left no information
+S : as I had gone out of office
+The Proper sequence should be:",QPRS,SQRP,QPSR,SPQR,3,NULL,NULL,NULL
+398,APT,VER,1,MCQ,"All such students
+P : get success
+Q : who are honest and hard-working
+R : and recognition
+S : in very walk of life
+The Proper sequence should be:",SPRQ,PRQS,QPRS,PSRQ,3,NULL,NULL,NULL
+399,APT,VER,2,MCQ," 
+With her body
+P : dragging her unwilling feet
+Q : weak and infirm
+R : doubled with age
+S : she persisted in her mission
+The Proper sequence should be:",PQRS,QPRS,RQPS,SRPQ,3,NULL,NULL,NULL
+400,APT,VER,3,MCQ,"We must read
+P : if we want to absorb the fruits of great literature
+Q : but with concentration
+R : them not as we do cricket stories
+S : undefined
+The Proper sequence should be:",QPSR,PSQR,PRSQ,PRQS,1,NULL,NULL,NULL
+401,APT,VER,1,MCQ,"Of many artists
+P : those who impressed me the most
+Q : I was a child
+R : but those with unique personalities off stage
+S : were not always the successful ones
+The Proper sequence should be:",SRQP,QRSP,RSPQ,QPSR,4,NULL,NULL,NULL
+402,FE,JAVA,2,MCQ,"Which four options describe the correct default values for array elements of the types indicated 1)int -> 0 2)String -> ""null"" 3)Dog -> null 4)char -> '\u0000' 5)float -> 0.0f 6)boolean -> true","1, 2, 3, 4","1, 3, 4, 5","1, 3, 4, 5","3, 4, 5, 6",2,NULL,NULL,NULL
+403,FE,JAVA,3,MCQ,Which one of these lists contains only Java programming language keywords,"class, if, void, long, Int, continue","goto, instanceof, native, finally, default, throws","try, virtual, throw, final, volatile, transient","strictfp, constant, super, implements, do",2,NULL,NULL,NULL
+404,FE,JAVA,1,MCQ,"Which will legally declare, construct, and initialize an array","int [] myList = {""1"", ""2"", ""3""};",,"int myList [] [] = {4,9,7,0};","int myList [] = {4, 3, 7};",4,NULL,NULL,NULL
+405,FE,JAVA,2,MCQ,Which is a reserved word in the Java programming language?,method,native,subclasses,reference,2,NULL,NULL,NULL
+406,FE,JAVA,3,MCQ,Which is a valid keyword in java,interface,string,Float,unsigned,1,NULL,NULL,NULL
+407,FE,JAVA,1,MCQ,Which one of the following will declare an array and initialize it with five numbers?,Array a = new Array(5);,"int [] a = {23,22,21,20,19};",int a [] = new int[5];,int [5] array;,2,NULL,NULL,NULL
+408,FE,JAVA,2,MCQ,Which is the valid declarations within an interface definition,public double methoda();,public final double methoda();,static void methoda(double d1);,protected void methoda(double d1);,1,NULL,NULL,NULL
+409,FE,JAVA,1,MCQ,Which one is a valid declaration of a boolean,boolean b1 = 0;,boolean b2 = 'false';,boolean b3 = false;,boolean b4 = Boolean.false();,3,NULL,NULL,NULL
+410,FE,JAVA,2,MCQ,Which is a valid declarations of a String,String s1 = null;,String s2 = 'null';,String s3 = (String) 'abc';,String s4 = (String) '\ufeed';,1,NULL,NULL,NULL
+411,FE,JAVA,3,MCQ,What is the numerical range of a char?,0 to 65535,-128 to 127,-(215) to (215) - 1,0 to 32767,4,NULL,NULL,NULL
+412,FE,JAVA,1,MCQ,Which is true about an anonymous inner class,It can extend exactly one class and implement exactly one interface.,It can extend exactly one class and can implement multiple interfaces.,It can extend exactly one class or implement exactly one interface.,It can implement multiple interfaces regardless of whether it also extends a class.,3,NULL,NULL,NULL
+413,FE,JAVA,2,MCQ,Which is true about a method-local inner class,It must be marked final.,It can be marked abstract,It can be marked public.,It can be marked static.,2,NULL,NULL,NULL
+414,FE,JAVA,3,MCQ,Which statement is true about a static nested class?,You must have a reference to an instance of the enclosing class in order to instantiate it.,It does not have access to nonstatic members of the enclosing class.,It's variables and methods must be static.,It must extend the enclosing class.,2,NULL,NULL,NULL
+415,FE,JAVA,1,MCQ,Which constructs an anonymous inner class instance?,Runnable r = new Runnable() { };,Runnable r = new Runnable(public void run() { });,Runnable r = new Runnable { public void run(){}};,System.out.println(new Runnable() {public void run() { }});,4,NULL,NULL,NULL
+416,FE,JAVA,2,MCQ,What is the most restrictive access modifier that will allow members of one class to have access to members of another class in the same package?,public,abstract,protected,default access,4,NULL,NULL,NULL
+417,FE,JAVA,3,MCQ,Which cause a compiler error?,"int[ ] scores = {3, 5, 7};","int [ ][ ] scores = {2,7,6}, {9,3,45};","String cats[ ] = {""Fluffy"", ""Spot"", ""Zeus""};","boolean results[ ] = new boolean [] {true, false, true};",2,NULL,NULL,NULL
+418,FE,JAVA,1,MCQ,You want a class to have access to members of another class in the same package. Which is the most restrictive access that accomplishes this objective?,public,private,protected,default access,4,NULL,NULL,NULL
+419,FE,JAVA,2,MCQ,Which one creates an instance of an array?,int[ ] ia = new int[15];,float fa = new float[20];,"char[ ] ca = ""Some String"";","int ia[ ] [ ] = { 4, 5, 6 }, { 1,2,3 };",1,NULL,NULL,NULL
+420,FE,JAVA,1,MCQ,Which of the following class level (nonlocal) variable declarations will not compile?,protected int a;,transient int b = 3;,private synchronized int e;,volatile int d;,3,NULL,NULL,NULL
+421,FE,JAVA,2,MCQ,"Given a method in a protected class, what access modifier do you use to restrict access to that method to only the other members of the same class?",final,static,private,protected,3,NULL,NULL,NULL
+422,FE,JAVA,3,MCQ,Which is a valid declaration within an interface?,public static short stop = 23;,protected short stop = 23;,transient short stop = 23;,final void madness(short stop);,1,NULL,NULL,NULL
+423,FE,JAVA,1,MCQ,What is the name of the method used to start a thread execution?,init();,start();,run();,resume();,2,NULL,NULL,NULL
+424,FE,JAVA,2,MCQ,Which cannot directly cause a thread to stop executing?,Calling the SetPriority() method on a Thread object.,Calling the wait() method on an object.,Calling notify() method on an object.,Calling read() method on an InputStream object.,3,NULL,NULL,NULL
+425,FE,JAVA,3,MCQ,Which of the following will directly stop the execution of a Thread?,wait(),notify(),notifyall(),exits synchronized code,1,NULL,NULL,NULL
+426,FE,JAVA,1,MCQ,Which method must be defined by a class implementing the java.lang.Runnableinterface?,void run(),public void run(),public void start(),void run(int priority),2,NULL,NULL,NULL
+427,FE,JAVA,2,MCQ,Which will contain the body of the thread?,run();,start();,stop();,main();,1,NULL,NULL,NULL
+428,FE,JAVA,3,MCQ,Which method registers a thread in a thread scheduler?,run();,construct();,start();,register();,3,NULL,NULL,NULL
+429,FE,JAVA,1,MCQ,"Assume the following method is properly synchronized and called from a thread A on an object B: wait(2000); After calling this method, when will the thread A become a candidate to get another turn at the CPU?","After thread A is notified, or after two seconds.","After the lock on B is released, or after two seconds.",Two seconds after thread A is notified.,Two seconds after lock B is released.,1,NULL,NULL,NULL
+430,FE,JAVA,2,MCQ,Which of the following will not directly cause a thread to stop?,notify(),wait(),InputStream access,sleep(),1,NULL,NULL,NULL
+431,FE,JAVA,3,MCQ,"Which class or interface defines the wait(), notify(),and notifyAll() methods?",Object,Thread,Runnable,Class,1,NULL,NULL,NULL
+432,FE,JAVA,1,MCQ,"What is the value of ""d"" after this line of code has been executed? double d = Math.round ( 2.5 + Math.random() );",2,3,4,2.5,2,NULL,NULL,NULL
+433,FE,JAVA,2,MCQ,Which of the following would compile without error?,int a = Math.abs(-5);,int b = Math.abs(5.0);,int c = Math.abs(5.5F);,int d = Math.abs(5L);,1,NULL,NULL,NULL
+434,FE,JAVA,3,MCQ,Suppose that you would like to create an instance of a new Map that has an iteration order that is the same as the iteration order of an existing instance of a Map. Which concrete implementation of the Map interface should be used for the new instance?,TreeMap,HashMap,LinkedHashMap,The answer depends on the implementation of the existing instance,3,NULL,NULL,NULL
+435,FE,JAVA,1,MCQ,"Which class does not override the equals() and hashCode() methods, inheriting them directly from class Object?",java.lang.String,java.lang.Character,java.lang.Double,java.lang.StringBuffer,3,NULL,NULL,NULL
+436,FE,JAVA,2,MCQ,"Which collection class allows you to grow or shrink its size and provides indexed access to its elements, but whose methods are not synchronized?",java.util.HashSet,java.util.LinkedHashSet,java.util.List,java.util.ArrayList,4,NULL,NULL,NULL
+437,FE,JAVA,3,MCQ,You need to store elements in a collection that guarantees that no duplicates are stored and all elements can be accessed in natural order. Which interface provides that capability?,java.util.Map,java.util.Map,java.util.List,java.util.Collection,2,NULL,NULL,NULL
+438,FE,JAVA,1,MCQ,Which interface does java.util.Hashtable implement?,Java.util.Map,Java.util.List,Java.util.HashTable,Java.util.Collection,1,NULL,NULL,NULL
+439,FE,JAVA,2,MCQ,Which interface provides the capability to store objects using a key-value pair?,Java.util.Map,Java.util.Set,Java.util.List,Java.util.Collection,1,NULL,NULL,NULL
+440,FE,JAVA,3,MCQ,"Which collection class allows you to associate its elements with key values, and allows you to retrieve objects in FIFO (first-in, first-out) sequence?",java.util.ArrayList,java.util.LinkedHashMap,java.util.HashMap,java.util.TreeMap,2,NULL,NULL,NULL
+441,FE,JAVA,1,MCQ,"Which collection class allows you to access its elements by associating a key with an element's value, and provides synchronization?",java.util.SortedMap,java.util.TreeMap,java.util.TreeSet,java.util.Hashtable,4,NULL,NULL,NULL
+442,FE,JAVA,2,MCQ,What is the numerical range of char?,0 to 32767,0 to 65535,256 to 255,-32768 to 32767,2,NULL,NULL,NULL
+443,FE,CN,1,MCQ,How long is an IPv6 address?,32 bits,128 bytes,64 bits,128 bits,4,NULL,NULL,NULL
+444,FE,CN,2,MCQ,What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?,NAT,Static,Dynamic,PAT,4,NULL,NULL,NULL
+445,FE,CN,3,MCQ,What command is used to create a backup configuration?,copy running backup,copy running-config startup-config,config mem,wr mem,2,NULL,NULL,NULL
+446,FE,CN,1,MCQ,You have 10 users plugged into a hub running 10Mbps half-duplex. There is a server connected to the switch running 10Mbps half-duplex as well. How much bandwidth does each host have to the server?,100 kbps,1 Mbps,2 Mbps,10 Mbps,4,NULL,NULL,NULL
+447,FE,CN,2,MCQ,Which WLAN IEEE specification allows up to 54Mbps at 2.4GHz?,A,B,G,N,3,NULL,NULL,NULL
+448,FE,CN,3,MCQ,Which of the following is the valid host range for the subnet on which the IP address 192.168.168.188 255.255.255.192 resides?,192.168.168.129-190,192.168.168.129-191,192.168.168.128-190,192.168.168.128-192,1,NULL,NULL,NULL
+449,FE,CN,1,MCQ,"To back up an IOS, what command will you use?",backup IOS disk,copy ios tftp,copy tftp flash,copy flash tftp,4,NULL,NULL,NULL
+450,FE,CN,2,MCQ,What protocol does PPP use to identify the Network layer protocol?,NCP,ISDN,HDLC,LCP,1,NULL,NULL,NULL
+451,FE,CN,3,MCQ,Which of the following commands will allow you to set your Telnet password on a Cisco router?,line telnet 0 4,line aux 0 4,line vty 0 4,line con 0,3,NULL,NULL,NULL
+452,FE,CN,1,MCQ,Which protocol does DHCP use at the Transport layer?,IP,TCP,UDP,ARP,3,NULL,NULL,NULL
+453,FE,CN,2,MCQ,Which command is used to determine if an IP access list is enabled on a particular interface?,show access-lists,show access-lists,show ip interface,show interface access-lists,3,NULL,NULL,NULL
+454,FE,CN,1,MCQ,Where is a hub specified in the OSI model?,Session layer,Physical layer,Data Link layer,Application layer,2,NULL,NULL,NULL
+455,FE,CN,2,MCQ,What does the passive command provide to dynamic routing protocols?,Stops an interface from sending or receiving periodic dynamic updates.,Stops an interface from sending periodic dynamic updates but not from receiving updates.,Stops the router from receiving any dynamic updates.,Stops the router from sending any dynamic updates.,2,NULL,NULL,NULL
+456,FE,CN,3,MCQ,Which protocol is used to send a destination network unknown message back to originating hosts?,TCP,ARP,ICMP,BootP,3,NULL,NULL,NULL
+457,FE,CN,1,MCQ,How often are BPDUs sent from a layer 2 device?,Never,Every 2 seconds,Every 10 minutes,Every 30 seconds,2,NULL,NULL,NULL
+458,FE,CN,2,MCQ,How many broadcast domains are created when you segment a network with a 12-port switch?,1,2,5,12,1,NULL,NULL,NULL
+459,FE,CN,3,MCQ,What does the command routerA(config)#line cons 0 allow you to perform next?,Set the Telnet password.,Shut down the router.,Set your console password.,Disable console connections.,3,NULL,NULL,NULL
+460,FE,CN,1,MCQ,Which router command allows you to view the entire contents of all access lists?,show all access-lists,show access-lists,show ip interface,show interface,2,NULL,NULL,NULL
+461,FE,CN,2,MCQ,Which class of IP address has the most host addresses available by default?,A,B,C,A and B,1,NULL,NULL,NULL
+462,FE,CN,3,MCQ,"In a network with dozens of switches, how many root bridges would you have?",1,2,5,12,1,NULL,NULL,NULL
+463,FE,CN,1,MCQ,"What PPP protocol provides dynamic addressing, authentication, and multilink?",NCP,HDLC,LCP,X.25,3,NULL,NULL,NULL
+464,FE,CN,2,MCQ,What is a stub network?,A network with more than one exit point.,A network with more than one exit and entry point.,A network with only one entry and no exit point.,A network that has only one entry and exit point.,4,NULL,NULL,NULL
+465,FE,CN,3,MCQ,"If your router is facilitating a CSU/DSU, which of the following commands do you need to use to provide the router with a 64000bps serial link?",RouterA(config)#bandwidth 64,RouterA(config-if)#bandwidth 64000,RouterA(config-if)#clock rate 64,RouterA(config-if)#clock rate 64000,4,NULL,NULL,NULL
+466,FE,CN,1,MCQ,Which one of the following is true regarding VLANs?,wo VLANs are configured by default on all Cisco switches.,VLANs only work if you have a complete Cisco switched internetwork. No off-brand switches are allowed.,You should not have more than 10 switches in the same VTP domain.,VTP is used to send VLAN information to switches in a configured VTP domain.,4,NULL,NULL,NULL
+467,FE,CN,2,MCQ,What does a VLAN do?,Acts as the fastest port to all servers.,Provides multiple collision domains on one switch port.,Breaks up broadcast domains in a layer 2 switch internetwork.,Provides multiple broadcast domains within a single collision domain.,3,NULL,NULL,NULL
+468,FE,CN,3,MCQ,What is the main reason the OSI model was created?,To create a layered model larger than the DoD model.,So application developers can change only one layer's protocols at a time.,So different networks could communicate.,So Cisco could use the model.,2,NULL,NULL,NULL
+469,FE,CN,1,MCQ,How many collision domains are created when you segment a network with a 12-port switch?,1,2,5,12,4,NULL,NULL,NULL
+470,FE,CN,2,MCQ,"What command will display the line, protocol, DLCI, and LMI information of an interface?",sh pvc,show interface,show frame-relay pvc,show run,2,NULL,NULL,NULL
+471,FE,CN,3,MCQ,Which protocol does Ping use?,TCP,ARP,ICMP,BootP,3,NULL,NULL,NULL
+472,FE,CN,1,MCQ,Which command is used to upgrade an IOS on a Cisco router?,copy tftp flash,copy tftp run,copy tftp start,config net,1,NULL,NULL,NULL
+473,FE,CN,2,MCQ,"If you wanted to delete the configuration stored in NVRAM, what would you type?",erase startup,erase nvram,delete nvram,erase running,1,NULL,NULL,NULL
+474,FE,CN,3,MCQ,What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model?,Application,Host-to-Host,Internet,Network Access,2,NULL,NULL,NULL
+475,FE,CN,1,MCQ,"You want to implement a mechanism that automates the IP configuration, including IP address, subnet mask, default gateway, and DNS information. Which protocol will you use to accomplish this?",SMTP,SNMP,DHCP,ARP,3,NULL,NULL,NULL
+476,FE,CN,2,MCQ,Which of the following is private IP address?,12.0.0.1,168.172.19.39,172.15.14.36,192.168.24.43,4,NULL,NULL,NULL
+477,FE,CN,1,MCQ,Which of the following allows a router to respond to an ARP request that is intended for a remote host?,Gateway DP,Reverse ARP (RARP),Proxy ARP,Inverse ARP (IARP),3,NULL,NULL,NULL
+478,FE,CN,2,MCQ,The DoD model (also called the TCP/IP stack) has four layers. Which layer of the DoD model is equivalent to the Network layer of the OSI model?,Application,Host-to-Host,Internet,Network Access,3,NULL,NULL,NULL
+479,FE,CN,3,MCQ,Which class of IP address provides a maximum of only 254 host addresses per network ID?,Class A,Class B,Class C,Class D,3,NULL,NULL,NULL
+480,FE,CN,1,MCQ,"If you use either Telnet or FTP, which is the highest layer you are using to transmit data?",Application,Presentation,Session,Transport,1,NULL,NULL,NULL
+481,FE,CN,2,MCQ,Which of the following is the decimal and hexadecimal equivalents of the binary number 10011101?,"155, 0x9B","157, 0x9D","159, 0x9F","185, 0xB9",2,NULL,NULL,NULL
+482,FE,CN,3,MCQ,Which layer 4 protocol is used for a Telnet connection?,IP,TCP,TCP/IP,UDP,2,NULL,NULL,NULL
+483,FE,CN,1,MCQ,What protocol is used to find the hardware address of a local device?,RARP,ARP,IP,ICMP,2,NULL,NULL,NULL
+484,FE,CN,2,MCQ,Which of the following protocols uses both TCP and UDP?,FTP,SMTP,Telnet,DNS,4,NULL,NULL,NULL
+485,FE,CN,3,MCQ,What is the address range of a Class B network address in binary?,01xxxxxx,0xxxxxxx,10xxxxxx,110xxxxx,3,NULL,NULL,NULL
+486,FE,CN,1,MCQ,Which of the following commands sets the secret password to Cisco?,enable secret password Cisco,,enable secret cisco,enable secret Cisco,enable password Cisco,NULL,NULL,NULL
+487,FE,CN,2,MCQ,"What layer of the OSI model would you assume the problem is in if you type show interface serial 1 and receive the following message? ""Serial1 is down, line protocol is down.""",Physical layer,Data Link layer,Network layer,None. It is a router problem.,1,NULL,NULL,NULL
+488,FE,CN,1,MCQ,Which of the following commands displays the configurable parameters and statistics of all interfaces on a router?,show running-config,show startup-config,show interfaces,show versions,3,NULL,NULL,NULL
+489,FE,CN,2,MCQ,Which of the following commands will configure all the default VTY ports on a router?,Router#line vty 0 4,Router(config)#line vty 0 4,Router(config-if)#line console 0,Router(config)#line vty all,2,NULL,NULL,NULL
+490,FE,CN,3,MCQ,You need to find the broadcast address used on a LAN on your router. What command will you type into the router from user mode to find the broadcast address?,show running-config,show startup-config,show interfaces,show protocols,3,NULL,NULL,NULL
+491,FE,CN,1,MCQ,Which command will delete the contents of NVRAM on a router?,delete NVRAM,delete startup-config,erase NVRAM,erase start,4,NULL,NULL,NULL
+492,FE,CN,2,MCQ,What keystroke will terminate setup mode?,Ctrl+Z,Ctrl+C,Ctrl+^,Ctrl+Shift+^,2,NULL,NULL,NULL
+493,FE,CN,3,MCQ,What command do you type to save the configuration stored in RAM to NVRAM?,Router(config)#copy current to starting,Router#copy starting to running,Router(config)#copy running-config startup-config,Router#copy run startup,4,NULL,NULL,NULL
+494,FE,CN,1,MCQ,You type Router#sh ru and receive an % ambiguous command error. Why did you receive this message,The command requires additional options or parameters.,There is more than one show command that starts with the letters ru.,There is no show command that starts with ru.,The command is being executed from the wrong router mode.,2,NULL,NULL,NULL
+495,FE,CN,2,MCQ,"If you wanted administrators to see a message when logging into the router, which command would you use?",message banner motd,banner message motd,banner motd,message motd,3,NULL,NULL,NULL
+496,FE,CN,3,MCQ,How many simultaneous Telnet sessions does a Cisco router support by default?,2,3,4,5,4,NULL,NULL,NULL
+497,FE,CN,1,MCQ,Which command will show you whether a DTE or a DCE cable is plugged into serial 0?,sh int s0,sh int serial 0,show controllers serial 0,show serial 0 controllers,3,NULL,NULL,NULL
+498,FE,CN,2,MCQ,You want to totally reinitialize the router and replace the current running-config with the current startup-config. What command will you use?,replace run start,copy run start,copy start run,reload,4,NULL,NULL,NULL
+499,FE,CN,3,MCQ,"If you delete the contents of NVRAM and reboot the router, what mode will you be in?",Privileged mode,Global mode,Setup mode,NVRAM loaded mode,3,NULL,NULL,NULL
+500,FE,CN,1,MCQ,"What is the problem with an interface if you type show interface serial 0 and receive the following message? ""Serial0 is administratively down, line protocol is down.""",The keepalives are different times.,The administrator has the interface shut down.,The administrator is pinging from the interface.,No cable is attached.,2,NULL,NULL,NULL
+501,FE,CN,2,MCQ,Which command displays RIP routing updates?,show ip route,debug ip rip,show protocols,debug ip route,2,NULL,NULL,NULL
+502,FE,CN,3,MCQ,What is split horizon?,Information about a route should not be sent back in the direction from which the original update came.,It splits the traffic when you have a large bus (horizon) physical network.,It holds the regular updates from broadcasting to a downed link.,It prevents regular update messages from reinstating a route that has gone down.,1,NULL,NULL,NULL
+503,FE,CN,1,MCQ,What command is used to stop RIP routing updates from exiting out an interface but still allow the interface to receive RIP route updates?,Router(config-if)# no routing,Router(config-if)# passive-interface,Router(config-router)# passive-interface s0,Router(config-router)# no routing updates,3,NULL,NULL,NULL
+504,FE,CN,2,MCQ,Two connected routers are configured with RIP routing. What will be the result when a router receives a routing update that contains a higher-cost path to a network already in its routing table?,The updated information will be added to the existing routing table.,The update will be ignored and no further action will occur.,The updated information will replace the existing routing table entry.,The existing routing table entry will be deleted from the routing table and all routers will exchange routing updates to reach convergence.,2,NULL,NULL,NULL
+505,FE,CN,3,MCQ,You type debug ip rip on your router console and see that 172.16.10.0 is being advertised to you with a metric of 16. What does this mean?,The route is 16 hops away.,The route has a delay of 16 microseconds.,The route is inaccessible.,The route is queued at 16 messages a second.,3,NULL,NULL,NULL
+506,FE,CN,1,MCQ,"If your routing table has a static, a RIP, and an IGRP route to the same network, which route will be used to route packets by default?",Any available route,RIP route,Static route,IGRP route,3,NULL,NULL,NULL
+507,FE,CN,2,MCQ,What is route poisoning?,"It sends back the protocol received from a router as a poison pill, which stops the regular updates.",It is information received from a router that can't be sent back to the originating router.,It prevents regular update messages from reinstating a route that has just come up.,It describes when a router sets the metric for a downed link to infinity.,4,NULL,NULL,NULL
+508,FE,CN,3,MCQ,Which of the following is true regarding RIPv2?,It has a lower administrative distance than RIPv1.,It converges faster than RIPv1,It has the same timers as RIPv1.,It is harder to configure than RIPv1.,3,NULL,NULL,NULL
+509,FE,CN,1,MCQ,A network administrator views the output from the show ip route command. A network that is advertised by both RIP and IGRP appears in the routing table flagged as an IGRP route. Why is the RIP route to this network not used in the routing table?,IGRP has a faster update timer.,IGRP has a lower administrative distance.,RIP has a higher metric value for that route.,The IGRP route has fewer hops.,2,NULL,NULL,NULL
+510,FE,CN,2,MCQ,What is the purpose of Spanning Tree Protocol in a switched LAN?,To provide a mechanism for network monitoring in switched environments,To prevent routing loops in networks with redundant paths,To prevent switching loops in networks with redundant switched paths,To manage the VLAN database across multiple switches,3,NULL,NULL,NULL
+511,FE,CN,1,MCQ,Which statement describes a spanning-tree network that has converged?,All switch and bridge ports are assigned as either root or designated ports.,All switch and bridge ports are in either the forwarding or blocking state.,All switch and bridge ports are in the forwarding state.,All switch and bridge ports are either blocking or looping.,2,NULL,NULL,NULL
+512,FE,CN,2,MCQ,What does a switch do when a frame is received on an interface and the destination hardware address is unknown or not in the filter table?,Forwards the switch to the first available link,Drops the frame,Floods the network with the frame looking for the device,Sends back a message to the originating station asking for a name resolution,3,NULL,NULL,NULL
+513,FE,CN,3,MCQ,In which circumstance are multiple copies of the same unicast frame likely to be transmitted in a switched LAN?,During high-traffic periods,After broken links are reestablished,When upper-layer protocols require high reliability,In an improperly implemented redundant topology,4,NULL,NULL,NULL
+514,FE,CN,1,MCQ,"If you want to disable STP on a port connected to a server, which command would you use?",disable spanning-tree,spanning-tree off,spanning-tree security,spanning-tree portfast,4,NULL,NULL,NULL
+515,FE,CN,2,MCQ,Which of the following statement is true?,A switch creates a single collision domain and a single broadcast domain. A router creates a single collision domain.,A switch creates separate collision domains but one broadcast domain. A router provides a separate broadcast domain.,A switch creates a single collision domain and separate broadcast domains. A router provides a separate broadcast domain as well.,A switch creates separate collision domains and separate broadcast domains. A router provides separate collision domains.,2,NULL,NULL,NULL
+516,FE,CN,3,MCQ,"You have two switches connected together with two crossover cables for redundancy, and STP is disabled. Which of the following will happen between the switches?",The routing tables on the switches will not update.,The MAC forward/filter table will not update on the switch.,Broadcast storms will occur on the switched network.,The switches will automatically load-balance between the two links.,3,NULL,NULL,NULL
+517,FE,CN,1,MCQ,Your switch has a port status LED that is alternating between green and amber. What could this indicate?,The port is experiencing errors.,The port is shut down.,The port is in STP blocking mode.,Nothing; this is normal.,1,NULL,NULL,NULL
+518,FE,CN,2,MCQ,You want to run the new 802.1w on your switches. Which of the following would enable this protocol?,Switch(config)# spanning-tree mode rapid-pvst,Switch# spanning-tree mode rapid-pvst,Switch(config)# spanning-tree mode 802.1w,Switch# spanning-tree mode 802.1w,1,NULL,NULL,NULL
+519,FE,CN,3,MCQ,Which of the following is a layer 2 protocol used to maintain a loop-free network?,VTP,STP,RIP,CDP,2,NULL,NULL,NULL
+520,FE,CN,1,MCQ,What command will display the forward/filter table?,show mac filter,show run,show mac address-table,show mac filter-table,3,NULL,NULL,NULL
+521,FE,CN,2,MCQ,"If a switch receives a frame and the source MAC address is not in the MAC address table but the destination address is, what will the switch do with the frame?",Discard it and send an error message back to the originating host,Flood the network with the frame,Add the source address and port to the MAC address table and forward the frame out the destination port,Add the destination to the MAC address table and then forward the frame,3,NULL,NULL,NULL
+522,FE,CN,1,MCQ,Which of the following is true regarding access lists applied to an interface?,You can place as many access lists as you want on any interface until you run out of memory.,You can apply only one access list on any interface.,"One access list may be configured, per direction, for each layer 3 protocol configured on an interface.",You can apply two access lists to any interface.,3,NULL,NULL,NULL
+523,FE,CN,2,MCQ,Which command would you use to apply an access list to a router interface?,ip access-list 101 out,access-list ip 101 in,ip access-group 101 in,access-group ip 101 in,3,NULL,NULL,NULL
+524,FE,CN,3,MCQ,Which of the following is an example of a standard IP access list?,access-list 110 permit host 1.1.1.1,access-list 1 deny 172.16.10.1 0.0.0.0,access-list 1 permit 172.16.10.1 255.255.0.0,access-list standard 1.1.1.1,2,NULL,NULL,NULL
+525,FE,CN,1,MCQ,You need to create an access list that will prevent hosts in the network range of 192.168.160.0 to 192.168.191.0. Which of the following lists will you use?,access-list 10 deny 192.168.160.0 255.255.224.0,access-list 10 deny 192.168.160.0 0.0.191.255,access-list 10 deny 192.168.160.0 0.0.31.255,access-list 10 deny 192.168.0.0 0.0.31.255,3,NULL,NULL,NULL
+526,FE,CN,2,MCQ,You are working on a router that has established privilege levels that restrict access to certain functions. You discover that you are not able to execute the command show running-configuration. How can you view and confirm the access lists that have been applied to the Ethernet 0 interface on your router?,show access-lists,show interface Ethernet 0,show ip access-lists,show ip interface Ethernet 0,4,NULL,NULL,NULL
+527,FE,CN,3,MCQ,What command will permit SMTP mail to only host 1.1.1.1?,access-list 10 permit smtp host 1.1.1.1,access-list 110 permit ip smtp host 1.1.1.1,access-list 10 permit tcp any host 1.1.1.1 eq smtp,access-list 110 permit tcp any host 1.1.1.1 eq smtp,4,NULL,NULL,NULL
+528,FE,CN,1,MCQ,You want to create a standard access list that denies the subnet of the following host: 172.16.50.172/20. Which of the following would you start your list with?,access-list 10 deny 172.16.48.0 255.255.240.0,access-list 10 deny 172.16.0.0 0.0.255.255,access-list 10 deny 172.16.64.0 0.0.31.255,access-list 10 deny 172.16.48.0 0.0.15.255,4,NULL,NULL,NULL
+529,FE,CN,2,MCQ,What router command allows you to determine whether an IP access list is enabled on a particular interface?,show ip port,show access-lists,show ip interface,show access-lists interface,3,NULL,NULL,NULL
+530,FE,CN,3,MCQ,You have created a named access list called Blocksales. Which of the following is a valid command for applying this to packets trying to enter interface s0 of your router?,(config)# ip access-group 110 in,(config-if)# ip access-group 110 in,(config-if)# ip access-group Blocksales in,(config-if)# blocksales ip access-list in,3,NULL,NULL,NULL
+531,FE,CN,1,MCQ,You want to create a standard access list that denies the subnet of the following host: 172.16.144.17/21. Which of the following would you start your list with?,access-list 10 deny 172.16.48.0 255.255.240.0,access-list 10 deny 172.16.144.0 0.0.7.255,access-list 10 deny 172.16.64.0 0.0.31.255,access-list 10 deny 172.16.136.0 0.0.15.255,2,NULL,NULL,NULL
+532,FE,CN,2,MCQ,You want to create a standard access list that denies the subnet of the following host: 172.16.198.94/19. Which of the following would you start your list with?,access-list 10 deny 172.16.192.0 0.0.31.255,access-list 10 deny 172.16.0.0 0.0.255.255,access-list 10 deny 172.16.172.0 0.0.31.255,access-list 10 deny 172.16.188.0 0.0.15.255,1,NULL,NULL,NULL
+533,FE,CN,3,MCQ,"If you wanted to deny all Telnet connections to only network 192.168.10.0, which command could you use?",access-list 100 deny tcp 192.168.10.0 255.255.255.0 eq telnet,access-list 100 deny tcp 192.168.10.0 0.255.255.255 eq telnet,access-list 100 deny tcp any 192.168.10.0 0.0.0.255 eq 23,access-list 100 deny 192.168.10.0 0.0.0.255 any eq 23,3,NULL,NULL,NULL
+534,FE,CN,1,MCQ,Which router command allows you to view the entire contents of all access lists?,Router# show interface,Router> show ip interface,Router# show access-lists,Router> show all access-lists,3,NULL,NULL,NULL
+535,FE,CN,2,MCQ,Which of the following access lists will allow only HTTP traffic into network 196.15.7.0?,access-list 100 permit tcp any 196.15.7.0 0.0.0.255 eq www,access-list 10 deny tcp any 196.15.7.0 eq www,access-list 100 permit 196.15.7.0 0.0.0.255 eq www,access-list 110 permit ip any 196.15.7.0 0.0.0.255,1,NULL,NULL,NULL
+536,FE,CN,3,MCQ,"If you wanted to deny FTP access from network 200.200.10.0 to network 200.199.11.0 but allow everything else, which of the following command strings is valid?",access-list 110 deny 200.200.10.0 to network 200.199.11.0 eq ftp access-list 111 permit ip any 0.0.0.0 255.255.255.255,access-list 1 deny ftp 200.200.10.0 200.199.11.0 any any,access-list 100 deny tcp 200.200.10.0 0.0.0.255 200.199.11.0 0.0.0.255 eq ftp,access-list 198 deny tcp 200.200.10.0 0.0.0.255 200.199.11.0 0.0.0.255 eq ftp access-list 198 permit ip any 0.0.0.0 255.255.255.255,4,NULL,NULL,NULL
+537,FE,CN,1,MCQ,Which of the following commands connect access list 110 inbound to interface ethernet0?,Router(config)# ip access-group 110 in,Router(config)# ip access-list 110 in,Router(config-if)# ip access-group 110 in,Router(config-if)# ip access-list 110 in,3,NULL,NULL,NULL
+538,FE,CN,2,MCQ,What is the frequency range of the IEEE 802.11a standard?,2.4Gbps,5Gbps,2.4GHz,5GHz,4,NULL,NULL,NULL
+539,FE,CN,3,MCQ,What is the maximum distance running the lowest data rate for 802.11b?,About 100 feet,About 175 feet,About 300 feet,About 350 feet,4,NULL,NULL,NULL
+540,FE,CN,1,MCQ,What is the maximum distance with maximum data rate for 802.11a?,About 65-75 feet,About 90-100 feet,About 150 feet,Over 200 feet,1,NULL,NULL,NULL
+541,FE,CN,2,MCQ,What is the frequency range of the IEEE 802.11b standard?,2.4Gbps,5Gbps,2.4GHz,5GHz,3,NULL,NULL,NULL
+542,FE,CN,3,MCQ,You have a Cisco mesh network. What protocol allows multiple APs to connect with many redundant connections between nodes?,LWAPP,AWPP,STP,IEEE,2,NULL,NULL,NULL
+543,FE,CN,1,MCQ,What is the maximum data rate for the 802.11g standard?,6Mbps,11Mbps,22Mbps,54Mbps,4,NULL,NULL,NULL
+544,FE,CN,2,MCQ,What is the maximum data rate for the 802.11a standard?,6Mbps,11Mbps,22Mbps,54Mbps,4,NULL,NULL,NULL
+545,FE,CN,1,MCQ,How many non-overlapping channels are available with 802.11b?,3,12,23,40,1,NULL,NULL,NULL
+546,FE,CN,2,MCQ,How many non-overlapping channels are available with 802.11a?,3,12,23,40,2,NULL,NULL,NULL
+547,FE,CN,3,MCQ,"In Cisco's Unified Wireless Solution, what is the split-MAC architecture?",The split-MAC architecture uses MAC addresses to create a forward/filter table and break up collision domains.,The split-MAC architecture allows the splitting of 802.11 protocol packets between the AP and the controller to allow processing by both devices.,The split-MAC architecture uses MAC addresses on the wireless network and IP addresses on the wired network.,The split-MAC architecture uses MAC addresses to create a forward/filter table and break up broadcast domains.,2,NULL,NULL,NULL
+548,FE,CN,1,MCQ,What is the maximum distance with maximum data rate for 802.11g?,About 65-75 feet,About 90-100 feet,About 150 feet,Over 200 feet,3,NULL,NULL,NULL
+549,FE,CN,2,MCQ,What is the maximum distance with maximum data rate for 802.11b?,About 65-75 feet,About 90-100 feet,About 150 feet,Over 200 feet,2,NULL,NULL,NULL
+550,FE,CN,3,MCQ,What is the maximum distance running the lowest data rate for 802.11a?,About 100 feet,About 175 feet,About 300 feet,About 350 feet,2,NULL,NULL,NULL
+551,FE,CN,1,MCQ,How many non-overlapping channels are available with 802.11h?,3,12,26,40,3,NULL,NULL,NULL
+552,FE,CN,2,MCQ,What is the maximum data rate for the 802.11b standard?,6Mbps,11Mbps,22Mbps,54Mbps,2,NULL,NULL,NULL
+553,FE,CN,3,MCQ,You are connecting your access point and it is set to root. What does Extended Service Set ID mean?,That you have more than one access point and they are in separate SSIDs connected by a distribution system.,,"That you have multiple access points, but they are placed physically in different buildings.","That you have multiple access points, but one is a repeater access point.",1,NULL,NULL,NULL
+554,FE,CN,1,MCQ,What is the frequency range of the IEEE 802.11g standard?,2.4Gbps,5Gbps,2.4GHz,5GHz,3,NULL,NULL,NULL
+555,FE,CN,2,MCQ,How many non-overlapping channels are available with 802.11g?,3,12,23,40,1,NULL,NULL,NULL
+556,FE,CN,3,MCQ,What is the maximum distance running the lowest data rate for 802.11g?,About 100 feet,About 175 feet,About 300 feet,About 350 feet,3,NULL,NULL,NULL
+557,FE,CN,1,MCQ,"When setting up Frame Relay for point-to-point subinterfaces, which of the following must not be configured?",The Frame Relay encapsulation on the physical interface,,The local DLCI on each subinterface,The subinterface type as point-to-point,3,NULL,NULL,NULL
+558,FE,CN,2,MCQ,Which command will display the CHAP authentication process as it occurs between two routers in the network?,show chap authentication,show interface serial 0,debug ppp authentication,debug chap authentication,3,NULL,NULL,NULL
+559,FE,CN,3,MCQ,"The Acme Corporation is implementing dial-up services to enable remote-office employees to connect to the local network. The company uses multiple routed protocols, needs authentication of users connecting to the network, and since some calls will be long distance, needs callback support. Which of the following protocols is the best choice for these remote services?",802.1,Frame Relay,HDLC,PPP,4,NULL,NULL,NULL
+560,FE,CN,1,MCQ,You need to configure a router for a Frame Relay connection to a non-Cisco router. Which of the following commands will prepare the WAN interface of the router for this connection?,Router(config-if)#encapsulation frame-relay q933a,Router(config-if)#encapsulation frame-relay ansi,Router(config-if)#encapsulation frame-relay ietf,Router(config-if)#encapsulation frame-relay cisco,3,NULL,NULL,NULL
+561,FE,CN,2,MCQ,Suppose that you have a customer who has a central HQ and six branch offices. They anticipate adding six more branches in the near future. They wish to implement a WAN technology that will allow the branches to economically connect to HQ and you have no free ports on the HQ router. Which of the following would you recommend?,802.1,Frame Relay,HDLC,ISDN,2,NULL,NULL,NULL
+562,FE,CN,3,MCQ,In which of the following technologies is the term HFC used?,DSL,PPPoE,Frame Relay,Dedicated T1,4,NULL,NULL,NULL
+563,FE,CN,1,MCQ,A default Frame Relay WAN is classified as what type of physical network?,Point-to-point,Broadcast multi-access,Non-broadcast multi-access,Non-broadcast multipoint,3,NULL,NULL,NULL
+564,FE,CN,2,MCQ,"Which of the following describes the creation of private networks across the Internet, enabling privacy and tunneling of non-TCP/IP protocols?",HDLC,Cable,VPN,IPSec,3,NULL,NULL,NULL
+565,FE,CN,3,MCQ,Which of the following describes an industry-wide standard suite of protocols and algorithms that allows for secure data transmission over an IP-based network that functions at the layer 3 Network layer of the OSI model?,HDLC,Cable,VPN,IPSec,4,NULL,NULL,NULL
+566,FE,CN,1,MCQ,Which of the following uses ATM as the Data Link layer protocol that's terminated at what's known as the DSLAM?,DSL,PPPoE,Frame Relay,Dedicated T1,1,NULL,NULL,NULL
+567,FE,CN,2,MCQ,"When a router is connected to a Frame Relay WAN link using a serial DTE interface, how is the clock rate determined?",Supplied by the CSU/DSU,By the far end router,By the clock rate command,By the Physical layer bit stream timing,1,NULL,NULL,NULL
+568,FE,CN,1,MCQ,Which command is required for connectivity in a Frame Relay network if Inverse ARP is not operational?,frame-relay arp,frame-relay map,frame-relay interface-dci,frame-relay lmi-type,2,NULL,NULL,NULL
+569,FE,CN,2,MCQ,How should a router that is being used in a Frame Relay network be configured to keep split horizon issues from preventing routing updates?,Configure a separate subinterface for each PVC with a unique DLCI and subnet assigned to the subinterface.,Configure each Frame Relay circuit as a point-to-point line to support multicast and broadcast traffic.,Configure many subinterfaces in the same subnet.,Configure a single subinterface to establish multiple PVC connections to multiple remote router interfaces.,1,NULL,NULL,NULL
+570,FE,CN,3,MCQ,"Which of the following encapsulates PPP frames in Ethernet frames and uses common PPP features like authentication, encryption, and compression?",PPP,PPPoA,PPPoE,Token Ring,3,NULL,NULL,NULL
+571,FE,CN,1,MCQ,Routers operate at layer _____. LAN switches operate at layer _____. Ethernet hubs operate at layer _____. Word processing operates at layer _____.,"3, 3, 1, 7","3, 2, 1, none","3, 2, 1, 7","3, 3, 2, none",2,NULL,NULL,NULL
+572,FE,CN,2,MCQ,Which of the following describe router functions?,Packet switching,Internetwork communication,Path selection,All of the above,4,NULL,NULL,NULL
+573,FE,CN,3,MCQ,A receiving host has failed to receive all of the segments that it should acknowledge. What can the host do to improve the reliability of this communication session?,Send a different source port number.,Restart the virtual circuit.,Decrease the sequence number.,Decrease the window size.,4,NULL,NULL,NULL
+574,FE,CN,1,MCQ,What are the decimal and hexadecimal equivalents for the binary number 10110111?,69/0x2102,183/B7,173/A6,83/0xC5,2,NULL,NULL,NULL
+575,FE,CN,2,MCQ,What is the purpose of flow control?,To ensure that data is retransmitted if an acknowledgment is not received.,To reassemble segments in the correct order at the destination device.,To provide a means for the receiver to govern the amount of data sent by the sender.,To regulate the size of each segment.,3,NULL,NULL,NULL
+576,FE,CN,3,MCQ,"Acknowledgments, sequencing, and flow control are characteristics of which OSI layer?",Layer 2,Layer 3,Layer 4,Layer 7,3,NULL,NULL,NULL
+577,FE,CN,1,MCQ,What type of RJ45 UTP cable do you use to connect a PC's COM port to a router or switch console port?,Straight-through,Crossover cable,Crossover with a CSU/DSU,Rolled,4,NULL,NULL,NULL
+578,FE,CN,2,MCQ,How to implement a network medium that is not susceptible to EMI. Which type of cabling should you use?,Thicknet coax,Thinnet coax,Category 5 UTP cable,Fiber-optic cable,4,NULL,NULL,NULL
+579,FE,CN,1,MCQ,Segmentation of a data stream happens at which layer of the OSI model?,Physical,Data Link,Network,Transport,4,NULL,NULL,NULL
+580,FE,CN,2,MCQ,"When data is encapsulated, which is the correct order?","Data, frame, packet, segment, bit","Segment, data, packet, frame, bit","Data, segment, packet, frame, bit","Data, segment, frame, packet, bit",3,NULL,NULL,NULL
+581,FE,CN,3,MCQ,What type of RJ45 UTP cable is used between switches?,Straight-through,Crossover cable,Crossover with a CSU/DSU,Crossover with a router in between the two switches,2,NULL,NULL,NULL
+582,FE,CN,1,MCQ,What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask?,14,15,16,30,4,NULL,NULL,NULL
+583,FE,CN,2,MCQ,"You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which classful subnet mask would you use?",255.255.255.192,255.255.255.224,255.255.255.240,255.255.255.248,2,NULL,NULL,NULL
+584,FE,CN,3,MCQ,You have a network that needs 29 subnets while maximizing the number of host addresses available on each subnet. How many bits must you borrow from the host field to provide the correct subnet mask?,2,3,4,5,4,NULL,NULL,NULL
+585,FE,CN,1,MCQ,"If an Ethernet port on a router were assigned an IP address of 172.16.112.1/25, what would be the valid subnet address of this host?",172.16.112.0,172.16.0.0,172.16.96.0,172.16.255.0,1,NULL,NULL,NULL
+586,FE,CN,2,MCQ,"You have an interface on a router with the IP address of 192.168.192.10/29. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?",6,8,30,32,1,NULL,NULL,NULL
+587,FE,CN,3,MCQ,What is the subnetwork number of a host with an IP address of 172.16.66.0/21?,172.16.36.0,172.16.48.0,172.16.64.0,172.16.0.0,3,NULL,NULL,NULL
+588,FE,CN,1,MCQ,The network address of 172.16.0.0/19 provides how many subnets and hosts?,"7 subnets, 30 hosts each","8 subnets, 8,190 hosts each","8 subnets, 2,046 hosts each","7 subnets, 2,046 hosts each",2,NULL,NULL,NULL
+589,FE,CN,2,MCQ,You need to configure a server that is on the subnet 192.168.19.24/29. The router has the first available host address. Which of the following should you assign to the server?,192.168.19.0 255.255.255.0,192.168.19.33 255.255.255.240,192.168.19.26 255.255.255.248,192.168.19.31 255.255.255.248,3,NULL,NULL,NULL
+590,FE,CN,3,MCQ,You have an interface on a router with the IP address of 192.168.192.10/29. What is the broadcast address the hosts will use on this LAN?,192.168.192.15,192.168.192.31,192.168.192.63,192.168.192.127,1,NULL,NULL,NULL
+591,FE,CN,1,MCQ,You have a network with a subnet of 172.16.17.0/22. Which is the valid host address?,172.16.17.1 255.255.255.252,172.16.0.1 255.255.240.0,172.16.20.1 255.255.254.0,172.16.18.255 255.255.252.0,4,NULL,NULL,NULL
+592,FE,CN,2,MCQ,"On a VLSM network, which mask should you use on point-to-point WAN links in order to reduce the waste of IP addresses?",/27,/28,/29,/30,4,NULL,NULL,NULL
+593,FE,CN,3,MCQ,"To test the IP stack on your local host, which IP address would you ping?",127.0.0.0,1.0.0.127,127.0.0.1,127.0.0.1,3,NULL,NULL,NULL
+594,FE,CN,1,MCQ,"If a host on a network has the address 172.16.45.14/30, what is the subnetwork this host belongs to?",172.16.45.0,172.16.45.4,172.16.45.8,172.16.45.12,4,NULL,NULL,NULL
+595,FE,CN,2,MCQ,Which configuration command must be in effect to allow the use of 8 subnets if the Class C subnet mask is 255.255.255.224?,Router(config)#ip classless,Router(config)#no ip classful,Router(config)#ip unnumbered,Router(config)#ip subnet-zero,4,NULL,NULL,NULL
+596,FE,CN,3,MCQ,"Using the illustration from the previous question, what would be the IP address of S0 if you were using the first subnet? The network ID is 192.168.10.0/28 and you need to use the last available IP address in the range. Again, the zero subnet should not be considered valid for this question.",192.168.10.24,192.168.10.62,192.168.10.30,192.168.10.127,3,NULL,NULL,NULL
+597,FE,CN,1,MCQ,What is the subnetwork address for a host with the IP address 200.10.5.68/28?,200.10.5.56,200.10.5.32,200.10.5.64,200.10.5.0,3,NULL,NULL,NULL
+598,FE,CN,2,MCQ,"If you want to have more than one Telnet session open at the same time, what keystroke combination would you use?",Tab+Spacebar,"Ctrl+X, then 6","Ctrl+Shift+X, then 6","Ctrl+Shift+6, then X",4,NULL,NULL,NULL
+599,FE,CN,3,MCQ,Which command will copy the IOS to a backup host on your network?,transfer IOS to 172.16.10.1,copy run start,copy start tftp,copy flash tftp,4,NULL,NULL,NULL
+600,FE,CN,1,MCQ,Which command loads a new version of the Cisco IOS into a router?,copy flash ftp,copy ftp flash,copy flash tftp,copy tftp flash,4,NULL,NULL,NULL
+601,FE,CN,2,MCQ,You are troubleshooting a connectivity problem in your corporate network and want to isolate the problem. You suspect that a router on the route to an unreachable network is at fault. What IOS user exec command should you issue?,Router> ping,Router> trace,Router> show ip route,Router> show interface,2,NULL,NULL,NULL
+602,FE,CN,1,MCQ,The configuration register setting of 0x2102 provides what function to a router?,Tells the router to boot into ROM monitor mode,Provides password recovery,Tells the router to look in NVRAM for the boot sequence,Boots the IOS from a TFTP server,3,NULL,NULL,NULL
+603,FE,CN,2,MCQ,You telnet to a router and make your necessary changes; now you want to end the Telnet session. What command do you type in?,close,disable,disconnect,exit,4,NULL,NULL,NULL
+604,FE,CN,3,MCQ,Which command displays the configuration register setting?,show ip route,show boot version,show version,show flash,3,NULL,NULL,NULL
+605,FE,CN,1,MCQ,What should the configuration register value be after you successfully complete the password recovery procedure and return the router to normal operation?,0x2100,0x2101,0x2102,0x2142,3,NULL,NULL,NULL
+606,FE,CN,2,MCQ,"You telnet into a remote device and type debug ip rip, but no output from the debugcommand is seen. What could the problem be?",You must type the show ip rip command first.,IP addressing on the network is incorrect.,You must use the terminal monitor command.,Debug output is sent only to the console.,3,NULL,NULL,NULL
+607,FE,CN,3,MCQ,What does the command o/r 0x2142 provide?,It is used to restart the router.,It is used to bypass the configuration in NVRAM.,It is used to enter ROM Monitor mode.,It is used to view the lost password.,2,NULL,NULL,NULL
+608,FE,CN,1,MCQ,"You save the configuration on a router with the copy running-config startup-config command and reboot the router. The router, however, comes up with a blank configuration. What can the problem be?",RAM should be erased and the router restarted.,Flash should be erased and the router restarted.,NVRAM should be erased and the router restarted.,The new configuration should be entered and saved.,3,NULL,NULL,NULL
+609,FE,CN,2,MCQ,Which command will show you the IOS version running on your router?,sh IOS,sh flash,sh version,sh running-config,3,NULL,NULL,NULL
+610,FE,CN,3,MCQ,You need to gather the IP address of a remote switch that is located in Hawaii. What can you do to find the address?,Issue the show ip arp command on the router connected to the switch.,Issue the show ip route command on the router connected to the switch.,Issue the show cdp neighbor command on the router connected to the switch.,Issue the show cdp neighbors detail command on the router connected to the switch.,4,NULL,NULL,NULL
+611,FE,CN,1,MCQ,A network administrator wants to upgrade the IOS of a router without removing the image currently installed. What command will display the amount of memory consumed by the current IOS image and indicate whether there is enough room available to hold both the current and new images?,show version,show flash,show memory,show buffers,2,NULL,NULL,NULL
+612,FE,CN,2,MCQ,"You copy a configuration from a network host to a router's RAM. The configuration looks correct, yet it is not working at all. What could the problem be?",You copied the wrong configuration into RAM.,You copied the configuration into flash memory instead.,The copy did not override the shutdown command in running-config.,The IOS became corrupted after the copy command was initiated.,3,NULL,NULL,NULL
+613,FE,CN,3,MCQ,With which network type will OSPF establish router adjacencies but not perform the DR/BDR election process?,Point-to-point,Backbone area 0,Broadcast multi-access,Non-broadcast multi-access,1,NULL,NULL,NULL
+614,FE,CN,1,MCQ,A network administrator needs to configure a router with a distance-vector protocol that allows classless routing. Which of the following satisfies those requirements?,IGRP,OSPF,RIPv1,EIGRP,4,NULL,NULL,NULL
+615,FE,CN,2,MCQ,What is the administrative distance of OSPF?,90,100,110,120,3,NULL,NULL,NULL
+616,FE,CN,3,MCQ,Your company is running IGRP using an AS of 10. You want to configure EIGRP on the network but want to migrate slowly to EIGRP and don't want to configure redistribution. What command would allow you to migrate over time to EIGRP without configuring redistribution?,router eigrp 11,router eigrp 10,router eigrp 10 redistribute igrp,,2,NULL,NULL,NULL
+617,FE,CN,1,MCQ,Where are EIGRP successor routes stored?,In the routing table only,In the neighbor table only,In the topology table only,In the routing table and the topology table,4,NULL,NULL,NULL
+618,FE,CN,2,MCQ,Which command will display all the EIGRP feasible successor routes known to a router?,show ip routes *,show ip eigrp summary,show ip eigrp topology,show ip eigrp adjacencies,3,NULL,NULL,NULL
+619,FE,CN,3,MCQ,"If routers in a single area are configured with the same priority value, what value does a router use for the OSPF Router ID in the absence of a loopback interface?",The lowest IP address of any physical interface,The highest IP address of any physical interface,The lowest IP address of any logical interface,The highest IP address of any logical interface,2,NULL,NULL,NULL
+620,FE,CN,1,MCQ,"You need the IP address of the devices with which the router has established an adjacency. Also, the retransmit interval and the queue counts for the adjacent routers need to be checked. What command will display the required information?",show ip eigrp adjacency,show ip eigrp topology,show ip eigrp interfaces,show ip eigrp neighbors,4,NULL,NULL,NULL
+621,FE,CN,2,MCQ,Which of the following is true regarding VLANs?,You must have at least two VLANs defined in every Cisco switched network.,"All VLANs are configured at the fastest switch and, by default, propagate this information to all other switches.",You should not have more than 10 switches in the same VTP domain.,VTP is used to send VLAN information to switches in a configured VTP domain.,4,NULL,NULL,NULL
+622,FE,CN,3,MCQ,Which protocol reduces administrative overhead in a switched network by allowing the configuration of a new VLAN to be distributed to all the switches in a domain?,STP,VTP,DHCP,ISL,2,NULL,NULL,NULL
+623,FE,CN,1,MCQ,Which of the following is true regarding VTP?,All switches are VTP servers by default.,All switches are VTP transparent by default.,VTP is on by default with a domain name of Cisco on all Cisco switches.,All switches are VTP clients by default.,1,NULL,NULL,NULL
+624,FE,CN,2,MCQ,Which of the following commands sets a trunk port on a 2960 switch?,trunk on,trunk all,switchport trunk on,switchport mode trunk,4,NULL,NULL,NULL
+625,FE,CN,1,MCQ,Which command will configure a switch port to use the IEEE standard method of inserting VLAN membership information into Ethernet frames?,Switch(config)# switchport trunk encapsulation isl,Switch(config)# switchport trunk encapsulation ietf,Switch(config)# switchport trunk encapsulation dot1q,Switch(config-if)# switchport trunk encapsulation dot1q,4,NULL,NULL,NULL
+626,FE,CN,2,MCQ,"When a new trunk link is configured on an IOS-based switch, which VLANs are allowed over the link?","By default, all VLANs are allowed on the trunk.","No VLAN's are allowed, you must configure each VLAN by hand.",Only configured VLAN's are allowed on the link.,Only extended VLAN's are allowed by default.,1,NULL,NULL,NULL
+627,FE,CN,3,MCQ,You want to improve network performance by increasing the bandwidth available to hosts and limit the size of the broadcast domains. Which of the following options will achieve this goal?,Managed hubs,Bridges,Switches,Switches configured with VLANs,4,NULL,NULL,NULL
+628,FE,CN,1,MCQ,Which switching technology reduces the size of a broadcast domain?,ISL,802.1Q,VLANs,STP,3,NULL,NULL,NULL
+629,FE,CN,2,MCQ,"A switch has been configured for three different VLANs: VLAN2, VLAN3, and VLAN4. A router has been added to provide communication between the VLANs. What type of interface is necessary on the router if only one connection is to be made between the router and the switch?",10Mbps Ethernet,56Kbps Serial,100Mbps Ethernet,1Gbps Ethernet,3,NULL,NULL,NULL
+630,FE,CN,3,MCQ,What VTP mode allows you to change VLAN information on the switch?,Client,STP,Server,Transparent,3,NULL,NULL,NULL
+631,FE,CN,1,MCQ,"You connect a host to a switch port, but the new host cannot log into the server that is plugged into the same switch. What could the problem be?",The router is not configured for the new host.,The VTP configuration on the switch is not updated for the new host.,The host has an invalid MAC address.,The switch port the host is connected to is not configured to the correct VLAN membership.,4,NULL,NULL,NULL
+632,FE,CN,2,MCQ,Which of the following is an IEEE standard for frame tagging?,ISL,802.3Z,802.3U,802.1Q,4,NULL,NULL,NULL
+633,FE,CN,3,MCQ,Which command would you place on interface connected to the Internet?,ip nat inside,ip nat outside,ip outside global,ip inside local,2,NULL,NULL,NULL
+634,FE,CN,1,MCQ,Which command will show you all the translations active on your router?,show ip nat translations,show ip nat statistics,debug ip nat,clear ip nat translations *,1,NULL,NULL,NULL
+635,FE,CN,2,MCQ,Which command would you place on interface on a private network?,ip nat inside,ip nat outside,ip outside global,ip inside local,1,NULL,NULL,NULL
+636,FE,CN,1,MCQ,Pat Address Translation is also termed what?,NAT Fast,NAT Static,NAT Overload,Overloading Static,3,NULL,NULL,NULL
+637,FE,CN,2,MCQ,"When creating a pool of global addresses, which of the following can be used instead of thenetmask command?",/ (slash notation),prefix-length,no mask,block-size,2,NULL,NULL,NULL
+638,FE,CN,3,MCQ,Which of the following would be a good starting point for troubleshooting if your router is not translating?,Reboot.,Call Cisco.,Check your interfaces for the correct configuration.,Run the debug all command.,3,NULL,NULL,NULL
+639,FE,CN,1,MCQ,Which command will show you the summary of the NAT configuration?,show ip nat translations,show ip nat statistics,debug ip nat,clear ip nat translations *,2,NULL,NULL,NULL
+640,FE,CN,2,MCQ,Which of the following is considered to be the destination host before translation?,Inside local,Outside local,Inside global,Outside global,2,NULL,NULL,NULL
+641,FE,CN,3,MCQ,Which of the following is considered to be the address after translation?,Inside local,Outside local,Inside global,Outside global,3,NULL,NULL,NULL
+642,FE,CN,1,MCQ,Which command will allow you to see real-time translations on your router?,show ip nat translations,show ip nat statistics,debug ip nat,clear ip nat translations *,3,NULL,NULL,NULL
+643,FE,CN,2,MCQ,Which of the following is considered to be the address before translation?,Inside local,Outside local,Inside global,Outside global,1,NULL,NULL,NULL
+644,FE,CN,3,MCQ,Which of the following is considered to be the destination host after translation?,Inside local,Outside local,Inside global,Outside global,4,NULL,NULL,NULL
+645,FE,CN,1,MCQ,Which command will create a dynamic pool named Todd that will provide you with 30 global addresses?,ip nat pool Todd 171.16.10.65 171.16.10.94 net 255.255.255.240,ip nat pool Todd 171.16.10.65 171.16.10.94 net 255.255.255.224,ip nat pool todd 171.16.10.65 171.16.10.94 net 255.255.255.224,ip nat pool Todd 171.16.10.1 171.16.10.254 net 255.255.255.0,2,NULL,NULL,NULL
+646,FE,CN,2,MCQ,Which command will clear all the translations active on your router?,show ip nat translations,show ip nat statistics,debug ip nat,clear ip nat translations *,4,NULL,NULL,NULL
+647,FE,CN,3,MCQ,Which of the following is true when describing a multicast address?,Packets addressed to a unicast address are delivered to a single interface.,Packets are delivered to all interfaces identified by the address. This is also called a one-to-many address.,Identifies multiple interfaces and is only delivered to one address. This address can also be called one-to-one-of-many.,"These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap.",2,NULL,NULL,NULL
+648,FE,CN,1,MCQ,Which of the following is true when describing a unicast address?,Packets addressed to a unicast address are delivered to a single interface.,"These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",These are like private addresses in IPv4 in that they are not meant to be routed.,"These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap.",1,NULL,NULL,NULL
+649,FE,CN,2,MCQ,"To enable OSPFv3, which of the following would you use?",Router1(config-if)# ipv6 ospf 10 area 0.0.0.0,Router1(config-if)# ipv6 router rip 1,Router1(config)# ipv6 router eigrp 10,Router1(config-rtr)# no shutdown,1,NULL,NULL,NULL
+650,FE,CN,3,MCQ,What multicast addresses does RIPng use?,FF02::A,FF02::9,FF02::5,FF02::6,2,NULL,NULL,NULL
+651,FE,CN,1,MCQ,"To enable RIPng, which of the following would you use?",Router1(config-if)# ipv6 ospf 10 area 0.0.0.0,Router1(config-if)# ipv6 router rip 1,Router1(config)# ipv6 router eigrp 10,Router1(config-rtr)# no shutdown,2,NULL,NULL,NULL
+652,FE,CN,2,MCQ,Which of the following is true when describing a global unicast address?,Packets addressed to a unicast address are delivered to a single interface.,"These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",These are like private addresses in IPv4 in that they are not meant to be routed.,"These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap.",2,NULL,NULL,NULL
+653,FE,CN,3,MCQ,What multicast addresses does EIGRPv6 use?,FF02::A,FF02::9,FF02::5,FF02::6,1,NULL,NULL,NULL
+654,FE,CN,1,MCQ,Which of the following is true when describing a link-local address?,Packets addressed to a unicast address are delivered to a single interface.,"These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",These are like private addresses in IPv4 in that they are not meant to be routed.,"These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap.",3,NULL,NULL,NULL
+655,FE,CN,2,MCQ,Which of the following is true when describing a unique local address?,Packets addressed to a unicast address are delivered to a single interface.,"These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",These are like private addresses in IPv4 in that they are not meant to be routed.,"These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap.",4,NULL,NULL,NULL
+656,FE,CN,3,MCQ,Which of the following is true when describing an anycast address?,Packets addressed to a unicast address are delivered to a single interface.,Packets are delivered to all interfaces identified by the address. This is also called one-to-many addresses.,This address identifies multiple interfaces and the anycast packet is only delivered to one address. This address can also be called one-to-one-of-many.,"These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap.",3,NULL,NULL,NULL
+657,FE,CN,1,MCQ,You want to ping the loopback address of your local host(with IPv6). What will you type?,trace 0.0.::1,ping 127.0.0.1,ping 0.0.0.0,ping ::1,4,NULL,NULL,NULL
+658,FE,CN,2,MCQ,The DBMS acts as an interface between what two components of an enterprise-class database system?,Database application and the database,Data and the database,The user and the database application,Database application and SQL,1,NULL,NULL,NULL
+659,FE,DBMS,1,MCQ,Which of the following products was an early implementation of the relational model developed by E.F. Codd of IBM?,IDMS,DB2,dBase-II,R:base,2,NULL,NULL,NULL
+660,FE,DBMS,2,MCQ,The following are components of a database except ________ .,user data,metadata,reports,indexes,3,NULL,NULL,NULL
+661,FE,DBMS,3,MCQ,An application where only one user accesses the database at a given time is an example of a(n) ________ .,single-user database application,multiuser database application,e-commerce database application,data mining database application,1,NULL,NULL,NULL
+662,FE,DBMS,1,MCQ,An on-line commercial site such as Amazon.com is an example of a(n) ________ .,single-user database application,multiuser database application,e-commerce database application,data mining database application,3,NULL,NULL,NULL
+663,FE,DBMS,2,MCQ,Which of the following products was the first to implement true relational algebra in a PC DBMS?,IDMS,Oracle,dBase-II,R:base,4,NULL,NULL,NULL
+664,FE,DBMS,3,MCQ,SQL stands for ________ .,Structured Query Language,Sequential Query Language,Structured Question Language,Sequential Question Language,1,NULL,NULL,NULL
+665,FE,DBMS,1,MCQ,"Because it contains a description of its own structure, a database is considered to be ________ .",described,metadata compatible,self-describing,an application program,3,NULL,NULL,NULL
+666,FE,DBMS,2,MCQ,The following are functions of a DBMS except ________ .,creating and processing forms,creating databases,processing data,administrating databases,1,NULL,NULL,NULL
+667,FE,DBMS,3,MCQ,Helping people keep track of things is the purpose of a(n) ________ .,database,table,instance,relationship,1,NULL,NULL,NULL
+668,FE,DBMS,1,MCQ,Which of the following products implemented the CODASYL DBTG model?,IDMS,Oracle,dBase-II,R:base,1,NULL,NULL,NULL
+669,FE,DBMS,2,MCQ,An Enterprise Resource Planning application is an example of a(n) ________ .,single-user database application,multiuser database application,e-commerce database application,data mining database application,2,NULL,NULL,NULL
+670,FE,DBMS,3,MCQ,A DBMS that combines a DBMS and an application generator is ________ .,Microsoft's SQL Server,Microsoft's Access,IBM's DB2,Oracle Corporation's Oracle,2,NULL,NULL,NULL
+671,FE,DBMS,1,MCQ,"You have run an SQL statement that asked the DBMS to display data in a table named USER_TABLES. The results include columns of data labeled ""TableName,"" ""NumberOfColumns"" and ""PrimaryKey."" You are looking at ________ .",user data.,metadata,A report,indexes,2,NULL,NULL,NULL
+672,FE,DBMS,2,MCQ,Which of the following is not considered to be a basic element of an enterprise-class database system?,Users,Database applications,DBMS,COBOL programs,4,NULL,NULL,NULL
+673,FE,DBMS,3,MCQ,The DBMS that is most difficult to use is ________ .,Microsoft's SQL Server,Microsoft's Access,IBM's DB2,Oracle Corporation's Oracle,4,NULL,NULL,NULL
+674,FE,DBMS,1,MCQ,You can add a row using SQL in a database with which of the following?,ADD,CREATE,INSERT,MAKE,3,NULL,NULL,NULL
+675,FE,DBMS,2,MCQ,The command to remove rows from a table 'CUSTOMER' is:,REMOVE FROM CUSTOMER ...,DROP FROM CUSTOMER ...,DELETE FROM CUSTOMER WHERE ...,UPDATE FROM CUSTOMER ...,3,NULL,NULL,NULL
+676,FE,DBMS,3,MCQ,The SQL WHERE clause:,limits the column data that are returned.,limits the row data are returned.,Both A and B are correct.,Neither A nor B are correct.,2,NULL,NULL,NULL
+677,FE,DBMS,1,MCQ,Which of the following is the original purpose of SQL?,To specify the syntax and semantics of SQL data definition language,To specify the syntax and semantics of SQL manipulation language,To define the data structures,All of the above.,4,NULL,NULL,NULL
+678,FE,DBMS,2,MCQ,The wildcard in a WHERE clause is useful when?,An exact match is necessary in a SELECT statement.,An exact match is not possible in a SELECT statement.,An exact match is necessary in a CREATE statement.,An exact match is not possible in a CREATE statement.,2,NULL,NULL,NULL
+679,FE,DBMS,3,MCQ,A view is which of the following?,A virtual table that can be accessed via SQL commands,A virtual table that cannot be accessed via SQL commands,A base table that can be accessed via SQL commands,A base table that cannot be accessed via SQL commands,1,NULL,NULL,NULL
+680,FE,DBMS,1,MCQ,The command to eliminate a table from a database is:,REMOVE TABLE CUSTOMER;,DROP TABLE CUSTOMER;,DELETE TABLE CUSTOMER;,UPDATE TABLE CUSTOMER;,2,NULL,NULL,NULL
+681,FE,DBMS,2,MCQ,ON UPDATE CASCADE ensures which of the following?,Normalization,Data Integrity,Materialized Views,All of the above.,2,NULL,NULL,NULL
+682,FE,DBMS,1,MCQ,SQL data definition commands make up a(n) ________ .,DDL,DML,HTML,XML,1,NULL,NULL,NULL
+683,FE,DBMS,2,MCQ,Which of the following is valid SQL for an Index?,CREATE INDEX ID;,CHANGE INDEX ID;,ADD INDEX ID;,REMOVE INDEX ID;,1,NULL,NULL,NULL
+684,FE,DBMS,3,MCQ,The SQL keyword(s) ________ is used with wildcards.,LIKE only,IN only,NOT IN only,IN and NOT IN,1,NULL,NULL,NULL
+685,FE,DBMS,1,MCQ,Which of the following is the correct order of keywords for SQL SELECT statements?,"SELECT, FROM, WHERE","FROM, WHERE, SELECT","WHERE, FROM,SELECT","SELECT,WHERE,FROM",1,NULL,NULL,NULL
+686,FE,DBMS,2,MCQ,A subquery in an SQL SELECT statement is enclosed in:,braces -- {...}.,CAPITAL LETTERS.,parenthesis -- (...) .,brackets -- [...].,3,NULL,NULL,NULL
+687,FE,DBMS,3,MCQ,The result of a SQL SELECT statement is a(n) ________ .,report,form,file,table,4,NULL,NULL,NULL
+688,FE,DBMS,1,MCQ,Which of the following are the five built-in functions provided by SQL?,"COUNT, SUM, AVG, MAX, MIN","SUM, AVG, MIN, MAX, MULT","SUM, AVG, MULT, DIV, MIN","SUM, AVG, MIN, MAX, NAME",1,NULL,NULL,NULL
+689,FE,DBMS,2,MCQ,"In an SQL SELECT statement querying a single table, according to the SQL-92 standard the asterisk (*) means that:",all columns of the table are to be returned.,all records meeting the full criteria are to be returned.,all records with even partial criteria met are to be returned.,None of the above is correct.,1,NULL,NULL,NULL
+690,FE,DBMS,3,MCQ,The HAVING clause does which of the following?,Acts like a WHERE clause but is used for groups rather than rows.,Acts like a WHERE clause but is used for rows rather than columns.,Acts like a WHERE clause but is used for columns rather than groups.,Acts EXACTLY like a WHERE clause.,1,NULL,NULL,NULL
+691,FE,DBMS,1,MCQ,The SQL -92 wildcards are ____ and ____ .,asterisk (*); percent sign (%),percent sign (%); underscore (_),underscore(_); question mark (?),question mark (?); asterisk (*),2,NULL,NULL,NULL
+692,FE,DBMS,2,MCQ,"To remove duplicate rows from the results of an SQL SELECT statement, the ________ qualifier specified must be included.",ONLY,UNIQUE,DISTINCT,SINGLE,3,NULL,NULL,NULL
+693,FE,DBMS,1,MCQ,The benefits of a standard relational language include which of the following?,Reduced training costs,Increased dependence on a single vendor,Applications are not needed.,All of the above.,1,NULL,NULL,NULL
+694,FE,DBMS,2,MCQ,Which of the following do you need to consider when you make a table in SQL?,Data types,Primary keys,Default values,All of the above.,4,NULL,NULL,NULL
+695,FE,DBMS,3,MCQ,SQL query and modification commands make up a(n) ________ .,DDL,DML,HTML,XML,2,NULL,NULL,NULL
+696,FE,DBMS,1,MCQ,"When three or more AND and OR conditions are combined, it is easier to use the SQL keyword(s):",LIKE only.,IN only.,NOT IN only.,Both IN and NOT IN.,4,NULL,NULL,NULL
+697,FE,DBMS,2,MCQ,The Microsoft Access wildcards are ____ and ____ .,asterisk (*); percent sign (%),percent sign (%); underscore (_),underscore(_); question mark (?),question mark (?); asterisk (*),4,NULL,NULL,NULL
+698,FE,DBMS,3,MCQ,Find the SQL statement below that is equal to the following: SELECT NAME FROM CUSTOMER WHERE STATE = 'VA';,SELECT NAME IN CUSTOMER WHERE STATE IN ('VA');,SELECT NAME IN CUSTOMER WHERE STATE = 'VA';,SELECT NAME IN CUSTOMER WHERE STATE = 'V';,,4,NULL,NULL,NULL
+699,FE,DBMS,1,MCQ,Which one of the following sorts rows in SQL?,SORT BY,ALIGN BY,ORDER BY,GROUP BY,3,NULL,NULL,NULL
+700,FE,DBMS,2,MCQ,To sort the results of a query use:,SORT BY.,GROUP BY.,ORDER BY.,None of the above is correct.,3,NULL,NULL,NULL
+701,FE,DBMS,3,MCQ,To define what columns should be displayed in an SQL SELECT statement:,use FROM to name the source table(s) and list the columns to be shown after SELECT.,use USING to name the source table(s) and list the columns to be shown after SELECT.,use SELECT to name the source table(s) and list the columns to be shown after USING.,use USING to name the source table(s) and list the columns to be shown after WHERE.,1,NULL,NULL,NULL
+702,FE,DBMS,1,MCQ,SQL can be used to:,create database structures only.,query database data only.,modify database data only.,All of the above can be done by SQL.,4,NULL,NULL,NULL
+703,FE,DBMS,2,MCQ,The SQL statement that queries or reads data from a table is ________ .,SELECT,READ,QUERY,None of the above is correct.,1,NULL,NULL,NULL
+704,FE,DBMS,3,MCQ,The SQL keyword BETWEEN is used:,for ranges.,to limit the columns displayed.,as a wildcard.,None of the above is correct.,1,NULL,NULL,NULL
+705,FE,DBMS,1,MCQ,A subquery in an SQL SELECT statement:,can only be used with two tables.,can always be duplicated by a join.,has a distinct form that cannot be duplicated by a join.,cannot have its results sorted using ORDER BY.,3,NULL,NULL,NULL
+706,FE,DBMS,2,MCQ,________ was adopted as a national standard by ANSI in 1992.,Oracle,SQL,Microsoft Access,DBase,2,NULL,NULL,NULL
+707,FE,DBMS,3,MCQ,SQL is:,a programming language.,an operating system.,a data sublanguage.,a DBMS.,3,NULL,NULL,NULL
+708,FE,DBMS,1,MCQ,"Every time attribute A appears, it is matched with the same value of attribute B, but not the same value of attribute C. Therefore, it is true that:",A ? B.,A ? C.,"A ? (B,C).","(B,C) ? A.",1,NULL,NULL,NULL
+709,FE,DBMS,2,MCQ,The different classes of relations created by the technique for preventing modification anomalies are called:,normal forms.,referential integrity constraints.,functional dependencies.,None of the above is correct.,1,NULL,NULL,NULL
+710,FE,DBMS,3,MCQ,A relation is in this form if it is in BCNF and has no multivalued dependencies:,second normal form.,third normal form.,fourth normal form.,domain/key normal form.,3,NULL,NULL,NULL
+711,FE,DBMS,1,MCQ,Row is synonymous with the term:,record,relation,column,field,1,NULL,NULL,NULL
+712,FE,DBMS,2,MCQ,The primary key is selected from the:,composite keys.,determinants.,candidate keys.,foreign keys.,3,NULL,NULL,NULL
+713,FE,DBMS,3,MCQ,Which of the following is a group of one or more attributes that uniquely identifies a row?,Key,Determinant,Tuple,Relation,1,NULL,NULL,NULL
+714,FE,DBMS,1,MCQ,"When the values in one or more attributes being used as a foreign key must exist in another set of one or more attributes in another table, we have created a(n):",transitive dependency.,insertion anomaly.,referential integrity constraint.,normal form.,3,NULL,NULL,NULL
+715,FE,DBMS,2,MCQ,A relation is considered a:,Column.,one-dimensional table.,two-dimensional table.,three-dimensional table,3,NULL,NULL,NULL
+716,FE,DBMS,1,MCQ,"In the relational model, relationships between relations or tables are created by using:",composite keys.,determinants.,candidate keys.,foreign keys.,4,NULL,NULL,NULL
+717,FE,DBMS,2,MCQ,A functional dependency is a relationship between or among:,tables.,rows.,relations.,attributes.,4,NULL,NULL,NULL
+718,FE,DBMS,3,MCQ,Table is synonymous with the term:,record,relation,column,field,2,NULL,NULL,NULL
+719,FE,DBMS,1,MCQ,Which of the following is not a restriction for a table to be a relation?,The cells of the table must contain a single value.,All of the entries in any column must be of the same kind.,The columns must be ordered.,No two rows in a table may be identical.,3,NULL,NULL,NULL
+720,FE,DBMS,2,MCQ,"For some relations, changing the data can have undesirable consequences called:",referential integrity constraints.,modification anomalies.,normal forms.,transitive dependencies.,2,NULL,NULL,NULL
+721,FE,DBMS,3,MCQ,A key:,must always be composed of two or more columns.,can only be one column.,identifies a row.,identifies a column.,3,NULL,NULL,NULL
+722,FE,DBMS,1,MCQ,An attribute is a(n):,column of a table.,two dimensional table.,row of a table.,key of a table.,1,NULL,NULL,NULL
+723,FE,DBMS,2,MCQ,A relation in this form is free of all modification anomalies.,First normal form,Second normal form,Third normal form,Domain/key normal form,4,NULL,NULL,NULL
+724,FE,DBMS,3,MCQ,"If attributes A and B determine attribute C, then it is also true that:",A ? C.,B ? C.,"(A,B) is a composite determinant.",C is a determinant.,3,NULL,NULL,NULL
+725,FE,DBMS,1,MCQ,A tuple is a(n):,column of a table.,two dimensional table.,row of a table.,key of a table.,3,NULL,NULL,NULL
+726,FE,DBMS,2,MCQ,"If attribute A determines both attributes B and C, then it is also true that:",A ? B.,B ? A.,C ? A.,"(B,C) ? A.",1,NULL,NULL,NULL
+727,FE,DBMS,3,MCQ,One solution to the multivalued dependency constraint problem is to:,"split the relation into two relations, each with a single theme.",change the theme.,create a new theme.,add a composite key.,1,NULL,NULL,NULL
+728,FE,DBMS,1,MCQ,Needing to using more complicated SQL in database applications is a(n) ________ of normalization.,advantage,disadvantage,either an advantage or disadvantage,neither an advantage nor disadvantage,2,NULL,NULL,NULL
+729,FE,DBMS,2,MCQ,Eliminating modification anomalies is a(n) ________ of normalization.,advantage,disadvantage,either an advantage or disadvantage,neither an advantage nor disadvantage,1,NULL,NULL,NULL
+730,FE,DBMS,3,MCQ,Multivalued dependencies should ________ be eliminated.,always,commonly,seldom,never,1,NULL,NULL,NULL
+731,FE,DBMS,1,MCQ,"When assessing the table structure of an acquired set of tables with data, accessing the validity of possible referential integrity constraints on foreign keys is (part of) the:",first step.,second step.,third step.,fourth step.,3,NULL,NULL,NULL
+732,FE,DBMS,2,MCQ,Using the SQL GROUP BY phrase with a SELECT statement can help detect which of the following problems?,"The multivalue, multicolumn problem",The inconsistent values problem,The missing values problem,The general-purpose remarks column problem,2,NULL,NULL,NULL
+733,FE,DBMS,3,MCQ,"When assessing the table structure of an acquired set of tables with data, determining foreign keys is (part of) the:",first step.,second step.,third step.,fourth step.,2,NULL,NULL,NULL
+734,FE,DBMS,1,MCQ,Creating a read-only database is a task that is ________ assigned to beginning database professionals.,always,commonly,seldom,never,2,NULL,NULL,NULL
+735,FE,DBMS,2,MCQ,Each answer below shows example data from a table. Which answer is an example of the general-purpose remarks column problem?,"Three columns have the values 534-2435, 534-7867, and 546-2356 in the same row.","Three rows have the values Brown Small Chair, Small Chair Brown, and Small Brown Chair in the same column.","Three rows have the values Brown, NULL, and Blue in the same column.","One row has the value ""He is interested in a Silver Porsche from the years 1978-1988"" in a column.",4,NULL,NULL,NULL
+736,FE,DBMS,3,MCQ,"For a number of reasons, normalizations is not often an advantage for a(n) ________ database.",read-only,updateable,either a read-only or an updateable,None of the above is correct.,1,NULL,NULL,NULL
+737,FE,DBMS,1,MCQ,"Most of the time, modification anomalies are serious enough that tables should be normalized into:",1NF,2NF,3NF,BCNF,4,NULL,NULL,NULL
+738,FE,DBMS,2,MCQ,Each answer below shows example data from a table. Which answer is an example of the missing values problem?,"Three columns have the values 534-2435, 534-7867, and 546-2356 in the same row.","Three rows have the values Brown Small Chair, Small Chair Brown, and Small Brown Chair in the same column.","Three rows have the values Brown, NULL, and Blue in the same column.","One row has the value ""He is interested in a Silver Porsche from the years 1978-1988"" in a column.",3,NULL,NULL,NULL
+739,FE,DBMS,1,MCQ,"When assessing the table structure of an acquired set of tables with data, determining functional dependencies is (part of) the:",first step.,second step.,third step.,fourth step.,2,NULL,NULL,NULL
+740,FE,DBMS,2,MCQ,"Each answer below shows example data from a table. Which answer is an example of the multivalue, multicolumn problem?","Three columns have the values 534-2435, 534-7867, and 546-2356 in the same row.","Three rows have the values Brown Small Chair, Small Chair Brown, and Small Brown Chair in the same column.","Three rows have the values Brown, NULL, and Blue in the same column.","One row has the value ""He is interested in a Silver Porsche from the years 1978-1988"" in a column.",1,NULL,NULL,NULL
+741,FE,DBMS,3,MCQ,"When assessing the table structure of an acquired set of tables with data, counting the number of table rows is (part of) the:",first step.,second step.,third step.,fourth step.,1,NULL,NULL,NULL
+742,FE,DBMS,1,MCQ,"If a table has been normalized so that all determinants are candidate keys, then that table is in:",1NF,2NF,3NF,BCNF,4,NULL,NULL,NULL
+743,FE,DBMS,2,MCQ,Read-only databases are ________ updated.,always,commonly,seldom,never,4,NULL,NULL,NULL
+744,FE,DBMS,3,MCQ,Needing to assess the validity of assumed referential integrity constraints on foreign keys is a(n) ________ of normalization.,advantage,disadvantage,either an advantage or disadvantage,neither an advantage nor disadvantage,4,NULL,NULL,NULL
+745,FE,DBMS,1,MCQ,"When assessing the table structure of an acquired set of tables with data, determining primary keys is (part of) the:",first step.,second step.,third step.,fourth step.,2,NULL,NULL,NULL
+746,FE,DBMS,2,MCQ,Normalization ________ data duplication.,eliminates,reduces,increases,maximizes,1,NULL,NULL,NULL
+747,FE,DBMS,3,MCQ,Each answer below shows example data from a table. Which answer is an example of the inconsistent values problem?,"Three columns have the values 534-2435, 534-7867, and 546-2356 in the same row.","Three rows have the values Brown Small Chair, Small Chair Brown, and Small Brown Chair in the same column.","Three rows have the values Brown, NULL, and Blue in the same column.","One row has the value ""He is interested in a Silver Porsche from the years 1978-1988"" in a column.",2,NULL,NULL,NULL
+748,FE,DBMS,1,MCQ,Which of the following indicates the maximum number of entities that can be involved in a relationship?,Minimum cardinality,Maximum cardinality,ERD,Greater Entity Count (GEC),2,NULL,NULL,NULL
+749,FE,DBMS,2,MCQ,"Which type of entity cannot exist in the database unless another type of entity also exists in the database, but does not require that the identifier of that other entity be included as part of its own identifier?",Weak entity,Strong entity,ID-dependent entity,ID- independent entity,1,NULL,NULL,NULL
+750,FE,DBMS,1,MCQ,"In a one-to-many relationship, the entity that is on the one side of the relationship is called a(n) ________ entity.",parent,child,instance,subtype,1,NULL,NULL,NULL
+751,FE,DBMS,2,MCQ,Which type of entity represents an actual occurrence of an associated generalized entity?,Supertype entity,Subtype entity,Archetype entity,Instance entity,4,NULL,NULL,NULL
+752,FE,DBMS,3,MCQ,A recursive relationship is a relationship between an entity and ________ .,itself,a subtype entity,an archetype entity,an instance entity,1,NULL,NULL,NULL
+753,FE,DBMS,1,MCQ,Which of the following indicates the minimum number of entities that must be involved in a relationship?,Minimum cardinality,Maximum cardinality,ERD,Greater Entity Count (GEC),1,NULL,NULL,NULL
+754,FE,DBMS,2,MCQ,"Which of the following refers to something that can be identified in the users' work environment, something that the users want to track?",Entity,Attribute,Identifier,Relationship,1,NULL,NULL,NULL
+755,FE,DBMS,3,MCQ,In which of the following is a single-entity instance of one type related to many entity instances of another type?,One-to-One Relationship,One-to-Many Relationship,Many-to-Many Relationship,Composite Relationship,2,NULL,NULL,NULL
+756,FE,DBMS,1,MCQ,Which of the following refers to an entity in which the identifier of one entity includes the identifier of another entity?,Weak entity,Strong entity,ID-dependent entity,ID-independent entity,3,NULL,NULL,NULL
+757,FE,DBMS,2,MCQ,Which type of entity is related to two or more associated entities that each contain specialized attributes that apply to some but not all of the instances of the entity?,Supertype entity,Subtype entity,Archetype entity,Instance entity,1,NULL,NULL,NULL
+758,FE,DBMS,3,MCQ,An attribute that names or identifies entity instances is a(n):,Entity,Attribute,Identifier,Relationship,3,NULL,NULL,NULL
+759,FE,DBMS,1,MCQ,Properties that describe the characteristics of entities are called:,Entity,Attribute,Identifier,Relationship,2,NULL,NULL,NULL
+760,FE,DBMS,2,MCQ,In which of the following can many entity instances of one type be related to many entity instances of another type?,One-to-One Relationship,One-to-Many Relationship,Many-to-Many Relationship,Composite Relationship,3,NULL,NULL,NULL
+761,FE,DBMS,3,MCQ,Entities of a given type are grouped into a(n):,database.,entity class.,attribute.,ERD.,2,NULL,NULL,NULL
+762,FE,DBMS,1,MCQ,Which of the following is NOT a basic element of all versions of the E-R model?,Entities,Attributes,Relationships,Primary keys,4,NULL,NULL,NULL
+763,FE,DBMS,2,MCQ,In which of the following is a single-entity instance of one type of related to a single-entity instance of another type?,One-to-One Relationship,One-to-Many Relationship,Many-to-Many Relationship,Composite Relationship,1,NULL,NULL,NULL
+764,FE,DBMS,3,MCQ,Entities can be associated with one another in which of the following?,Entity,Attribute,Identifier,Relationship,4,NULL,NULL,NULL
+765,FE,DBMS,1,MCQ,Which type of entity has its relationship to another entity determined by an attribute in that other entity called a discriminator?,Supertype entity,Subtype entity,Archetype entity,Instance entity,2,NULL,NULL,NULL
+766,FE,DBMS,2,MCQ,"Which type of entity represents a logical generalization whose actual occurrence is represented by a second, associated entity?",Supertype entity,Subtype entity,Archetype entity,Instance entity,3,NULL,NULL,NULL
+767,FE,DBMS,3,MCQ,"In a one-to-many relationship, the entity that is on the many side of the relationship is called a(n) ________ entity.",parent,child,instance,subtype,2,NULL,NULL,NULL
+768,FE,DBMS,1,MCQ,What type of join is needed when you wish to include rows that do not have matching values?,Equi-join,Natural join,Outer join,All of the above.,3,NULL,NULL,NULL
+769,FE,DBMS,2,MCQ,What type of join is needed when you wish to return rows that do have matching values?,Equi-join,Natural join,Outer join,All of the above.,4,NULL,NULL,NULL
+770,FE,DBMS,3,MCQ,Which of the following is true concerning a procedure?,You do not create them with SQL.,They do not need to have a unique name.,They include procedural and SQL statements.,They are the same thing as a function.,3,NULL,NULL,NULL
+771,FE,DBMS,1,MCQ,A CASE SQL statement is which of the following?,A way to establish an IF-THEN-ELSE in SQL.,A way to establish a loop in SQL.,A way to establish a data definition in SQL.,All of the above.,1,NULL,NULL,NULL
+772,FE,DBMS,2,MCQ,Which of the following statements is true concerning routines and triggers?,Both consist of procedural code.,Both have to be called to operate.,Both run automatically.,Both are stored in the database.,1,NULL,NULL,NULL
+773,FE,DBMS,1,MCQ,Which of the following is one of the basic approaches for joining tables?,Subqueries,Union Join,Natural join,All of the above,4,NULL,NULL,NULL
+774,FE,DBMS,2,MCQ,Which of the following is true concerning systems information in an RDBMS?,RDBMS store database definition information in system-created tables.,This information can be accessed using SQL.,This information often cannot be updated by a user.,All of the above.,4,NULL,NULL,NULL
+775,FE,DBMS,3,MCQ,"The following SQL is which type of join: SELECT CUSTOMER_T. CUSTOMER_ID, ORDER_T. CUSTOMER_ID, NAME, ORDER_ID FROM CUSTOMER_T,ORDER_T WHERE CUSTOMER_T. CUSTOMER_ID = ORDER_T. CUSTOMER_ID",Equi-join,Natural join,Outer join,Cartesian join,1,NULL,NULL,NULL
+776,FE,DBMS,1,MCQ,Embedded SQL is which of the following?,Hard-coded SQL statements in a program language such as Java.,The process of making an application capable of generating specific SQL code on the fly.,Hard-coded SQL statements in a procedure.,Hard-coded SQL statements in a trigger.,1,NULL,NULL,NULL
+777,FE,DBMS,2,MCQ,A UNION query is which of the following?,Combines the output from no more than two queries and must include the same number of columns.,Combines the output from no more than two queries and does not include the same number of columns.,Combines the output from multiple queries and must include the same number of columns.,Combines the output from multiple queries and does not include the same number of columns.,3,NULL,NULL,NULL
+778,FE,DBMS,3,MCQ,Which of the following statements is true concerning subqueries?,Involves the use of an inner and outer query.,Cannot return the same result as a query that is not a subquery.,Does not start with the word SELECT.,All of the above.,1,NULL,NULL,NULL
+779,FE,DBMS,1,MCQ,Which of the following is a correlated subquery?,Uses the result of an inner query to determine the processing of an outer query.,Uses the result of an outer query to determine the processing of an inner query.,Uses the result of an inner query to determine the processing of an inner query.,Uses the result of an outer query to determine the processing of an outer query.,2,NULL,NULL,NULL
+780,FE,DBMS,2,MCQ,How many tables may be included with a join?,1,2,3,All of the above.,4,NULL,NULL,NULL
+781,FE,DBMS,3,MCQ,"The following SQL is which type of join: SELECT CUSTOMER_T. CUSTOMER_ID, ORDER_T. CUSTOMER_ID, NAME, ORDER_ID FROM CUSTOMER_T,ORDER_T ;",Equi-join,Natural join,Outer join,Cartesian join,4,NULL,NULL,NULL
+782,FE,DBMS,1,MCQ,Which of the following is true concerning triggers?,You do not create them with SQL.,They execute against only some applications that access a database.,"They have an event, condition, and action.",They cannot cascade (cause another trigger to fire).,3,NULL,NULL,NULL
+783,FE,DBMS,2,MCQ,The XSLT processor copies the elements of the stylesheet until it finds a command in the format:,SELECT ... FROM ... WHERE.,"{item, action}.",{for-each select}.,<HTML>...<\HTML>.,2,NULL,NULL,NULL
+784,FE,DBMS,3,MCQ,"What standard, protocol or language was generalized to become a standard protocol for sending messages of any type, using any protocol?",SOAP,SGML,SQL,ADO,1,NULL,NULL,NULL
+785,FE,DBMS,1,MCQ,Which of the following statements is not true about XML Schemas:,They are used to define the content and structure of data.,They define a set of symbols and the relationships of those symbols.,They are themselves XML documents.,They have their own syntax.,4,NULL,NULL,NULL
+786,FE,DBMS,2,MCQ,The most popular way to materialize XML documents is to use:,DTD,XSLT,HTML,SOAP,2,NULL,NULL,NULL
+787,FE,DBMS,3,MCQ,With XML:,views are not limited to one multi-valued path only.,documents can automatically be generated from database data only.,database data can automatically be extracted from XML documents only.,"With XML, all of the above are true.",4,NULL,NULL,NULL
+788,FE,DBMS,1,MCQ,"To eliminate definition duplication, XML Schemas define:",an intersection table.,global elements.,a normalized definition table.,None of the above is correct.,2,NULL,NULL,NULL
+789,FE,DBMS,2,MCQ,What is not true about SOAP?,SOAP originally meant Simple Object Access Protocol.,SOAP was defined as an XML-based standard for providing remote procedure calls over the Internet.,"SOAP now is just a name, not an acronym",SOAP was an early form of XML.,4,NULL,NULL,NULL
+790,FE,DBMS,3,MCQ,XML Schemas consist of:,properties and methods.,elements and attributes.,structure and data.,tables and relationships.,2,NULL,NULL,NULL
+791,FE,DBMS,1,MCQ,The expression FOR XML RAW tells SQL Server to:,place the values of the columns as attributes in the resulting XML document.,place the values of the columns into elements rather than attributes.,place some columns into elements and others into attributes.,None of the above is correct.,1,NULL,NULL,NULL
+792,FE,DBMS,2,MCQ,ADO.NET provides the ability to create and process in-memory databases called:,views,relations,tables,datasets,4,NULL,NULL,NULL
+793,FE,DBMS,3,MCQ,An XML component that defines the structure of a document is known as a(n):,DOCTYPE,DTD,#PCDATA.,HTML Stylesheet.,2,NULL,NULL,NULL
+794,FE,DBMS,1,MCQ,HTML is an application of a more robust document markup language called:,XHTML,XML,SGML,None of the above is correct,3,NULL,NULL,NULL
+795,FE,DBMS,2,MCQ,"XSLT processors evaluate each statement in the context of the match that has been made. That is, XSLT processors are:",context oriented.,procedural oriented.,object oriented.,relational oriented.,1,NULL,NULL,NULL
+796,FE,DBMS,1,MCQ,The DTD begins with the word:,#PCDATA.,XML,DOCTYPE,HTTPS,3,NULL,NULL,NULL
+797,FE,DBMS,2,MCQ,What is not true about XML?,Web page display is the most important application of XML.,"With XML, there is a clear separation between document structure, content and materialization.",XML is more powerful than HTML.,XML documents have two sections.,1,NULL,NULL,NULL
+798,FE,DBMS,3,MCQ,What is not true about XSLT?,XSLT is a declarative transformation language.,XSLT uses a set of rules that govern how a document is to be materialized is created.,XSLT uses a set of procedures that specify how a document is to be programmed,XSLT is used to transform the input document into another document.,3,NULL,NULL,NULL
+799,FE,DBMS,1,MCQ,"If the XML data instance conforms to the DTD, the document is said to be:",type-invalid,type-valid.,not-type-valid,an HTML document.,2,NULL,NULL,NULL
+800,FE,DBMS,2,MCQ,XML is:,a subset of SGML only.,a hybrid of document processing and database processing only.,a standardized yet customizable way to describe the content of documents only.,XML is all of the above.,4,NULL,NULL,NULL
+801,FE,DBMS,3,MCQ,The document that is used by XSLT to indicate how to transform the elements of the XML document to another format is a(n):,HTML page.,DOCTYPE procedure.,stylesheet.,stored procedure.,3,NULL,NULL,NULL
+802,FE,DBMS,1,MCQ,"If an XML document does not have a DTD, then by definition it is:",not-type-valid.,type-valid.,an HTML document.,None of the above is correct.,1,NULL,NULL,NULL
+803,FE,OS,2,MCQ,ÿMain function of shared memory is:,to use primary memory efficently,to do intra process communication,to do inter process communication,none of above,3,NULL,NULL,NULL
+804,FE,OS,3,MCQ,If the property of locality of reference is well pronounced in a program,the number of page faults will be more,the number of page faults will be less,the number of page faults will same,none of above,2,NULL,NULL,NULL
+805,FE,OS,1,MCQ,Disk scheduling includes deciding,which should be accessed next,order in which disk access requests must be serviced,the physical location of the file,the logical location of the file,2,NULL,NULL,NULL
+806,FE,OS,2,MCQ,Belady anamoly occurs in,Optimal replacement,FIFO,LRU,both in FIFO and LRU,2,NULL,NULL,NULL
+807,FE,OS,1,MCQ,Which scheduling policy is best suited for time-sharing operating systems,Shortest job first,Round robin,First come first serve,Elevator,2,NULL,NULL,NULL
+808,FE,OS,2,MCQ,Which among following scheduling algorithms give minimum average waiting time,FCFS,SJF,Round robin,On priority,2,NULL,NULL,NULL
+809,FE,OS,3,MCQ,. Dirty bit is used to show,Page with corrupted data,Wrong page in memory,Page that is modified after being loaded in the cache memory,page that is less frequently accessed,3,NULL,NULL,NULL
+810,FE,OS,1,MCQ,"In real time OS, which is most suitable scheduling scheme",round robin,FCFS,pre-emptive scheduling,random scheduling,3,NULL,NULL,NULL
+811,FE,OS,2,MCQ,ÿSize of virtual memory depends on,size of data bus,size of address bus,size of main memory,none of above,2,NULL,NULL,NULL
+812,FE,OS,3,MCQ,Semophores are used to solve the problem of,race condition,process synchronization,mutual exclusion,belady problem,3,NULL,NULL,NULL
+813,FE,OS,1,MCQ,"ÿIn which scheduling policies, context switching never takes place",FCFS,round robin,Shortest job first,Pre-empitive,1,NULL,NULL,NULL
+814,FE,OS,2,MCQ,A thread is,lightweight process where the context switching is low,lightweight process where the context swithching is high,used to speed up paging,used in dead locks,1,NULL,NULL,NULL
+815,FE,OS,3,MCQ,ÿThe LRU algorithm,pages out pages that have been used recently,pages out pages that have not been used recently,pages out pages that have been least used recently,pages out the first page in a given area,3,NULL,NULL,NULL
+816,FE,OS,1,MCQ,Fragmentation of a file system,occurs only is file is not used properly,can always be prevented,happens in all file systems,can be removed by compaction,2,NULL,NULL,NULL
+817,FE,OS,2,MCQ,ÿA high paging rate,may cause a high I/O rate,keeps the system running well,is a symptom of too much processor activity,always creates a slow system,1,NULL,NULL,NULL
+818,FE,OS,3,MCQ,Creating a job queue is a function of,Spooler,Interperator,Complier,Drive,1,NULL,NULL,NULL
+819,FE,OS,1,MCQ,Dijkstra's algorithm deals with,mutual exclusion,deadlock recovery,deadlock avoidance,cache coherence,3,NULL,NULL,NULL
+820,FE,OS,2,MCQ,When a thread needs to wait for an event it will, Block, Execute,Terminate,Update,1,NULL,NULL,NULL
+821,FE,OS,3,MCQ,Memory tables are used to keep track of, Real and Virtual Memory, I/O Devices,Resources,I/O Modules+J77,1,NULL,NULL,NULL
+822,FE,OS,1,MCQ,ÿAuthentication is fundamental building block in most computers, Security Context, Control Context,Execution Context,Performance Context,1,NULL,NULL,NULL
+823,FE,OS,2,MCQ,Run time support system is system that is provided by, System call routines are mostly written in, system programs, system calls interface, processes,3,NULL,NULL,NULL
+824,FE,OS,3,MCQ,"ÿFor procedure, system is to be constrained to prevent overlap of buffer", Procedure, Programs, Operations, Information,3,NULL,NULL,NULL
+825,FE,OS,1,MCQ,Multiprogramming of computer system increases, memory, storage, CPU utilization, cost,3,NULL,NULL,NULL
+826,FE,OS,2,MCQ,Intruders is a most common security threat which referred to as, Account Access, Data Access, Hacker or Cracker, Computer Access,3,NULL,NULL,NULL
+827,FE,OS,3,MCQ,Application programming interfaces of operating system provides, creation, designing, deletion, portability,4,NULL,NULL,NULL
+828,FE,OS,1,MCQ,I/O function allows to exchange data directly between an, Process States, Registers, I/O module and processor, I/o devices,3,NULL,NULL,NULL
+829,FE,OS,2,MCQ,Interrupt table of pointers having addresses for each interrupt is located at, high memory, low memory, mid memory, both a and b,2,NULL,NULL,NULL
+830,FE,OS,1,MCQ,"ÿIn implementation of Semaphores, for a single processor system, it is possible to inhibited", Deadlock, Interrupts, Lock Step, None,2,NULL,NULL,NULL
+831,FE,OS,2,MCQ,Microkernel design imposes a uniform, Process, Processor, Interface, System,3,NULL,NULL,NULL
+832,FE,OS,3,MCQ,Cache memory is intended to provide memory access, Fastest, Slow, Very Slow, Fast,1,NULL,NULL,NULL
+833,FE,OS,1,MCQ,Main memory of computer system is also called, non volatile, volatile, reserved, large,2,NULL,NULL,NULL
+834,FE,OS,2,MCQ,Controller of computer system transfers data from device to, buffers, cache, registers, indexes,1,NULL,NULL,NULL
+835,FE,OS,3,MCQ,Timer is used to prevent a single, Job, Time, Computer, Information,1,NULL,NULL,NULL
+836,FE,OS,1,MCQ,ÿAsynchronous elements in program can be implemented as, Bugs, Threads, Programs, Security Policy,2,NULL,NULL,NULL
+837,FE,OS,2,MCQ,When many users accesses mainframes then approach used is called, resource allocation, word processors, dedicated resources, interface,1,NULL,NULL,NULL
+838,FE,OS,3,MCQ,ÿAccessing same data from storage of computer system is provided by, serial clusters, parallel clusters, beowulf clusters, both a and b,2,NULL,NULL,NULL
+839,FE,OS,1,MCQ,Memory of computer system for storing provides, array of characters, array of alphabets, array of words, array of numbers,3,NULL,NULL,NULL
+840,FE,OS,2,MCQ,Unit of dispatching is usually referred as, Multiprogramming, Security Policy, Problem, Thread,4,NULL,NULL,NULL
+841,FE,OS,3,MCQ,All deadlocks involve conflicting needs for, Resources, Users, Computers, Programs,1,NULL,NULL,NULL
+842,FE,OS,1,MCQ,One word memory storage is collection of, 2bytes, 4bytes, 7bytes, 8bytes,4,NULL,NULL,NULL
+843,FE,OS,2,MCQ,A single machine instruction can controls simultaneous execution of a number of processing elements on, Lockstep Basis, Open Step Basis, Early Basis, None,1,NULL,NULL,NULL
+844,FE,OS,3,MCQ,ÿClusters of computer system can be used more efficiently using, serialization, parallelization, LAN, WAN,2,NULL,NULL,NULL
+845,FE,OS,1,MCQ,ÿFastest form of inter process communication provided in UNIX is, Virtual Memory, Memory, Shared Memory, Main Memory,3,NULL,NULL,NULL
+846,FE,OS,2,MCQ,Clustered computer systems are normally linked via, LAN, WAN, PAN, TAN,1,NULL,NULL,NULL
+847,FE,OS,3,MCQ,Kernel mode of operating system runs when mode bit is,1,0, x, undefined,2,NULL,NULL,NULL
+848,FE,OS,1,MCQ,One mega byte memory storage in form of bytes is equal to, 1024bytes, 1024 kilobytes, 1056bytes, 1058 kilobytes,2,NULL,NULL,NULL
+849,FE,OS,2,MCQ,One that is not a type of multiprocessor of computer system is, dual core, blade server, clustered system, single core,4,NULL,NULL,NULL
+850,FE,OS,3,MCQ,Memory modules consist of, Set of Instructions, Set of Registers, Set of Locations, Set of Programs,3,NULL,NULL,NULL
+851,FE,OS,1,MCQ,"ÿIn addressing, a many to one relationship is useful for", Client Interaction, Client/Server Interaction, Server Interaction, None,2,NULL,NULL,NULL
+852,FE,OS,2,MCQ,Physical Memory manages pool of page frame in, Register, Real Memory, CPU, System,2,NULL,NULL,NULL
+853,FE,OS,1,MCQ,Interpreters choosing multiple command interpreters are called, kernel, Unix, shells, Solaris,3,NULL,NULL,NULL
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

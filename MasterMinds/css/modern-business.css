@@ -1,0 +1,408 @@
+/*!
+ * Start Bootstrap - Modern Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+
+html,
+body {
+   
+    height: 100%;
+}
+
+body {
+     
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 50%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+/* Pricing Page Styles */
+
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
+
+.t1H {
+    margin-top: 0;
+}
+.t1 {
+    display: block;
+    font-size: medium;
+    margin-top: 24px;
+    margin-bottom: 14px;
+    font-weight: bold;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+.cb1 {
+    float: left;
+    white-space: nowrap;
+}
+.wrap {
+  position: absolute;
+  overflow: scroll;
+  top: 10%;
+  right: 10%;
+  bottom: 85px;
+  left: 30%;
+  padding: 20px 50px;
+  display: block;
+  border-radius: 4px;
+  -webkit-transform: translateY(20px);
+  -ms-transform: translateY(20px);
+  transform: translateY(20px);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  visibility: hidden;
+ background: white;
+}
+.wrap .content {
+  opacity: 0;
+ 
+     
+}
+.wrap:before {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  background: white;
+  content: "";
+  bottom: 10px;
+  left: 50%;
+  top: 50%;
+  color: #fff;
+  border-radius: 50%;
+  -webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.wrap.active {    
+  display: block;
+  visibility: visible;
+   box-shadow: 2px 3px 16px silver;
+  -webkit-transition: all 600ms;
+  transition: all 600ms;
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+ position: fixed;
+}
+.wrap.active:before {
+  height: 2000px;
+  width: 2000px;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  margin-left: -1000px;
+  margin-top: -1000px;
+  display: block;
+  -webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.wrap.active .content {
+  position: relative;
+  z-index: 1;
+  opacity: 1;
+  background:white;    
+  -webkit-transition: all 600ms cubic-bezier(0.55, 0.055, 0.675, 0.19);    
+  transition: all 600ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+a.button {
+  padding: 11px 11px 13px 13px;
+  outline: none;
+  border-radius: 50%;
+  background: #4d0099;
+  color: #fff;
+  font-size: 24px;
+  display: block;
+  position: fixed;
+  left: 95%;
+  bottom: 20px;
+  top: auto;
+  margin-left: -25px;
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+a1.glyphicon-edit {
+  padding: 11px 11px 13px 13px;
+  outline: none;
+  border-radius: 50%;
+  background: orange;
+  color: #fff;
+  font-size: 24px;
+  display: block;
+  position: fixed;
+  left: 95%;
+  bottom: 80px;
+  top: auto;
+  margin-left: -25px;
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+a.button:hover {
+  text-decoration: none;
+  background: #4d0099;
+}
+a.button.active {
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+}
+
+
+a1.glyphicon-edit:hover {
+  text-decoration: none;
+  background: orange;
+}
+a1.glyphicon-edit.activea  {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  -webkit-transition: -webkit-transform 0.3s;
+  transition: transform 0.3s;
+}
+.wrap1:before {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  background: white;
+  content: "";
+  bottom: 10px;
+  left: 50%;
+  top: 50%;
+  color: #fff;
+  border-radius: 50%;
+  -webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.wrap1.activea {    
+  display: block;
+  visibility: visible;
+   box-shadow: 2px 3px 16px silver;
+  -webkit-transition: all 600ms;
+  transition: all 600ms;
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+ position: fixed;
+}
+.wrap1.activea:before {
+  height: 2000px;
+  width: 2000px;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  margin-left: -1000px;
+  margin-top: -1000px;
+  display: block;
+  -webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.wrap1.activea .contenta {
+  position: relative;
+  z-index: 1;
+  opacity: 1;
+  background:white;    
+  -webkit-transition: all 600ms cubic-bezier(0.55, 0.055, 0.675, 0.19);    
+  transition: all 600ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+.wrap1 {
+  position: absolute;
+  overflow: hidden;
+  top: 10%;
+  right: 10%;
+  bottom: 85px;
+  left: 30%;
+  padding: 20px 50px;
+  display: block;
+  border-radius: 4px;
+  -webkit-transform: translateY(20px);
+  -ms-transform: translateY(20px);
+  transform: translateY(20px);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  visibility: hidden;
+ background: white;
+}
+.wrap1 .contenta {
+  opacity: 0;
+}
+
+a2.glyphicon-modal-window {
+  padding: 11px 11px 13px 13px;
+  outline: none;
+  border-radius: 50%;
+  background: green;
+  color: #fff;
+  font-size: 24px;
+  display: block;
+  position: fixed;
+  left: 95%;
+  bottom: 140px;
+  top: auto;
+  margin-left: -25px;
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+a2.glyphicon-modal-window:hover {
+  text-decoration: none;
+  background: green;
+}
+a2.glyphicon-modal-window.actives  {
+  -webkit-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  transform: rotate(360deg);
+  -webkit-transition: -webkit-transform 0.3s;
+  transition: transform 0.3s;
+}
+.wrap2:before {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  background: white;
+  content: "";
+  bottom: 10px;
+  left: 50%;
+  top: 50%;
+  color: #fff;
+  border-radius: 50%;
+  -webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.wrap2.actives {    
+  display: block;
+  visibility: visible;
+   box-shadow: 2px 3px 16px silver;
+  -webkit-transition: all 600ms;
+  transition: all 600ms;
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+ position: fixed;
+}
+.wrap2.actives:before {
+  height: 2000px;
+  width: 2000px;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  margin-left: -1000px;
+  margin-top: -1000px;
+  display: block;
+  -webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.wrap2.actives .contents {
+  position: relative;
+  z-index: 1;
+  opacity: 1;
+  background:white;    
+  -webkit-transition: all 600ms cubic-bezier(0.55, 0.055, 0.675, 0.19);    
+  transition: all 600ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+.wrap2 {
+  position: absolute;
+  overflow: hidden;
+  top: 10%;
+  right: 10%;
+  bottom: 85px;
+  left: 30%;
+  padding: 20px 50px;
+  display: block;
+  border-radius: 4px;
+  -webkit-transform: translateY(20px);
+  -ms-transform: translateY(20px);
+  transform: translateY(20px);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  visibility: hidden;
+ background: white;
+}
+.wrap2 .contents {
+  opacity: 0;
+}
